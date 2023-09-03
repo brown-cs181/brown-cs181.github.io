@@ -95,7 +95,7 @@ h1, h2, h3, h4, h5, h6 { font-weight: 400; font-family: 'Coiny', cursive; }
 
 /** Links */
 a { color: #1fae43; text-decoration: none; }
-a:hover { color: black; text-decoration: underline; }
+a:hover { color: black; }
 .social-media-list a:hover, .pagination a:hover { text-decoration: none; }
 .social-media-list a:hover .username, .pagination a:hover .username { text-decoration: underline; }
 
@@ -227,7 +227,7 @@ table td { border: 1px solid #e8e8e8; }
 /** Grid helpers */
 @media screen and (min-width: 800px) { .one-half { width: calc(50% - (30px / 2)); } }
 /** STAFF PAGE STYLING **/
-.uta-container { display: flex; flex-direction: row; flex-wrap: wrap; gap: 20px; }
+.uta-container { display: flex; flex-direction: row; flex-wrap: wrap; gap: 2em; }
 .uta-container .staff { width: fit-content; max-width: 188px; flex-wrap: wrap; display: flex; flex: 0 0 31%; }
 @media only screen and (max-width: 600px) { .uta-container .staff { flex: 0 0 45%; } }
 .uta-container .staff-wrapper { width: fit-content; height: fit-content; display: flex; flex-direction: column; flex-wrap: wrap; gap: 20px; overflow: hidden; transition: 0.2s ease; }
@@ -248,8 +248,10 @@ table td { border: 1px solid #e8e8e8; }
 .site-sidebar .sidebar-wrapper .site-nav .nav-trigger { width: 100% !important; display: none; }
 .site-sidebar .sidebar-wrapper .site-nav .trigger { flex-direction: row; justify-content: center; align-items: center; gap: 1px; }
 @media only screen and (max-width: 1020px) { .site-sidebar .sidebar-wrapper .site-nav .trigger { flex-direction: column; } }
-.site-sidebar .link-wrapper { display: flex; flex-direction: column; align-items: center; justify-content: center; cursor: pointer; border-radius: 10px; padding: 5px; transition: 0.3s ease; min-width: 85px; max-width: 48%; }
-.site-sidebar .link-wrapper .text { display: flex; justify-content: center; align-items: center; color: #dadada; font-weight: bold; font-size: 0.9rem; background-color: #295a4e; border-radius: 0.7rem; padding: 0.1rem; }
+.site-sidebar .link-wrapper { display: flex; flex-direction: column; align-items: center; justify-content: center; cursor: pointer; border-radius: 10px; padding: 5px; padding-left: 2em; padding-right: 2em; transition: 0.3s ease; min-width: 85px; max-width: 48%; }
+.site-sidebar .link-wrapper .image { transition: transform 0.2s ease-in-out; }
+.site-sidebar .link-wrapper .image:hover { transform: scale(1.1) rotate(1.5deg); }
+.site-sidebar .link-wrapper .text { display: flex; justify-content: center; align-items: center; color: #dadada; font-weight: bold; font-size: 0.9rem; background-color: #295a4e; border-radius: 0.7rem; padding: 0.2rem; }
 
 /** SITE SIDEBAR **/
 header { font-family: 'Coiny'; height: 25px; }

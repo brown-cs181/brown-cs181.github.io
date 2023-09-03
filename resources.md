@@ -81,6 +81,7 @@ links: []
 - [A Model of Evolutionary Change in Proteins](resources/5.pdf)
 - [Regulatory Motif Finding](resources/6.ppt)
 - [Logic functions of the genomic cis-regulatory code](resources/7.pdf)
+- [Final Exam Answers](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 - [The regulatory genome and computer](resources/8.pdf)
 - [How does the regulatory genome work?](resources/9.pdf)
 - [Eric Davidson's Regulatory Genome for Computer Science: Causality, Logic, and Proof Principles of the Genomic cis-Regulatory Code](resources/10.pdf)
