@@ -227,7 +227,7 @@ table td { border: 1px solid #e8e8e8; }
 /** Grid helpers */
 @media screen and (min-width: 800px) { .one-half { width: calc(50% - (30px / 2)); } }
 /** STAFF PAGE STYLING **/
-.uta-container { display: flex; flex-direction: row; flex-wrap: wrap; gap: 2em; }
+.uta-container { display: flex; margin: auto; flex-direction: row; flex-wrap: wrap; gap: 20px; }
 .uta-container .staff { width: fit-content; max-width: 188px; flex-wrap: wrap; display: flex; flex: 0 0 31%; }
 @media only screen and (max-width: 600px) { .uta-container .staff { flex: 0 0 45%; } }
 .uta-container .staff-wrapper { width: fit-content; height: fit-content; display: flex; flex-direction: column; flex-wrap: wrap; gap: 20px; overflow: hidden; transition: 0.2s ease; }

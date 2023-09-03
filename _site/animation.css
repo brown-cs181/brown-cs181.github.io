@@ -6,7 +6,8 @@ body {
   .animation-wrapper{
     position: absolute;
     top: 5em;
-    width: 100%
+    width: 100%;
+    overflow: hidden;
   }
   
   /* svg#animal {
@@ -37,8 +38,8 @@ body {
       margin-left: -250px;
       overflow: visible;
       position: relative;	
-      animation: swim 20s;
-      -webkit-animation: swim 20s;
+      animation: swim 30s;
+      -webkit-animation: swim 30s;
       animation-iteration-count: infinite;
       -webkit-animation-iteration-count: infinite;
       animation-timing-function: linear;

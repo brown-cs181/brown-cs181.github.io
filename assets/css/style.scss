@@ -15,9 +15,10 @@
 /** STAFF PAGE STYLING **/
 .uta-container {
   display: flex;
+  margin: auto;
   flex-direction: row;
   flex-wrap: wrap;
-  gap: 2em;
+  gap: 20px;
 
     .staff {
       width: fit-content;
