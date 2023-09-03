@@ -22,7 +22,7 @@ links: [
   },
   {
     "Title" : "Gradescope",
-    "Link" : "https://www.google.com",
+    "Link" : "https://www.gradescope.com/courses/562099",
     "Type" : "QuickLinks"
   },
   {
