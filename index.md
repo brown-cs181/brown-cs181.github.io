@@ -7,17 +7,17 @@ link_types: ["QuickLinks"]
 links: [
   {
     "Title" : "Syllabus",
-     "Link" : "https://www.google.com",
+     "Link" : "https://drive.google.com/file/d/13ls88Dl5oX-Pej_gfOE7SCgvvErVmMgS/view",
      "Type" : "QuickLinks"
   },
   {
     "Title" : "Collaboration Policy",
-    "Link" : "https://www.google.com",
+    "Link" : "https://drive.google.com/file/d/1-EL_YSJy3cY87Fj0I42zsRCgM9grq8iB/view",
     "Type" : "QuickLinks"
   },
   {
     "Title" : "Late Policy",
-    "Link" : "https://www.google.com",
+    "Link" : "https://drive.google.com/file/d/1BNLmAzdlZdjCVoxn67W_IPkFrre80_a7/view",
     "Type" : "QuickLinks"
   },
   {
@@ -32,7 +32,7 @@ links: [
   },
   {
     "Title" : "Anonymous Feedback Form",
-    "Link" : "https://www.google.com",
+    "Link" : "https://docs.google.com/forms/d/e/1FAIpQLSftSOnlH523UNP6uCMf6VWyQ9VbSQf5Q3j-Bqt8dFhlHb2qTg/viewform",
     "Type" : "QuickLinks"
   },
 ]

@@ -1,7 +1,7 @@
 ---
 name: Lisa Duan (HTA)
 role: staff
-favorite_theme_animal: Anglerfish
+favorite_theme_animal: Stegosaurus
 photo: iris.jpg
-throwback_photo: iris_alt.jpg
+throwback_photo: lisa_alt.jpg
 ---
