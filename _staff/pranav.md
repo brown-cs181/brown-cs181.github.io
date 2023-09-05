@@ -2,6 +2,6 @@
 name: Pranav Mahableshwarkar (UTA)
 role: staff
 favorite_theme_animal: Apatosaurus
-photo: michelle.jpg
+photo: pranav.png
 throwback_photo: pranav_alt.jpg
 ---
