@@ -27,7 +27,7 @@ links: [
   },
   {
     "Title" : "EdStem",
-    "Link" : "https://www.google.com",
+    "Link" : "https://edstem.org/us/courses/46578",
     "Type" : "QuickLinks"
   },
   {
