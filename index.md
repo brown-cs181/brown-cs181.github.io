@@ -7,7 +7,7 @@ link_types: ["QuickLinks"]
 links: [
   {
     "Title" : "Syllabus",
-     "Link" : "https://drive.google.com/file/d/13ls88Dl5oX-Pej_gfOE7SCgvvErVmMgS/view",
+     "Link" : "/quicklinks/CSCI1810-Syllabus_2023.pdf",
      "Type" : "QuickLinks"
   },
   {
