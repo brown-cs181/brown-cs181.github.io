@@ -11,7 +11,7 @@ links: []
 
 ### Class Notes
 
-The link to the ongoing class notes can be found [here](https://www.google.com). 
+The link to the ongoing class notes can be found [here](lectures/CS1810_Class_Notes___Hannah_s_Version.pdf). 
 
 ### Note Sign-up
 
