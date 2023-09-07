@@ -6,7 +6,7 @@ contents: [
   "Date": ["9/7/22"],
   "Topic": ["Welcome to CS 181!"],
   "Video": [],
-  "Extra Material": []
+  "Extra Material": ["slides":"/lectures/Firstlecture2022.pdf"]
 }
 ]
 ---
