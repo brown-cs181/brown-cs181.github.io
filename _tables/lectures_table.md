@@ -3,10 +3,16 @@ cols: ["Date", "Topic", "Video", "Extra Material"]
 
 contents: [
 {
-  "Date": ["9/7/22"],
+  "Date": ["9/7/23"],
   "Topic": ["Welcome to CS 181!"],
   "Video": [],
   "Extra Material": ["slides":"/lectures/Firstlecture2022.pdf"]
+}
+{
+  "Date": ["9/12/23"],
+  "Topic": ["Intro to Alignment!"],
+  "Video": [],
+  "Extra Material": ["slides":"/lectures/IntroToAlignment.pptf"]
 }
 ]
 ---
