@@ -2,7 +2,7 @@
 cols: ["Homework", "Out", "In", "Support Files"]
 contents: [
   {
-    "Homework" : ["Course Setup Form"],
+    "Homework" : [{"Course Setup Form": "https://docs.google.com/forms/d/e/1FAIpQLSfUq5rthIfe2AN3eXcEEQLTid6euvEa31pXNfQHMPT_cLyZnA/viewform"}],
     "Out" : ["9/8/23"],
     "In" : ["9/14/23"]
    },
