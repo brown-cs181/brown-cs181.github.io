@@ -10,9 +10,15 @@ contents: [
 },
 {
   "Date": ["9/12/23"],
-  "Topic": ["Intro to Alignment!"],
+  "Topic": ["Intro to Alignment"],
   "Video": [{"recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a3662bc4-183d-4037-b25d-b07a00cead98"}],
   "Extra Material": ["slides":"/lectures/IntroToAlignment.pdf"]
+},
+{
+  "Date": ["9/14/23"],
+  "Topic": ["Global Alignment"],
+  "Video": [],
+  "Extra Material": []
 },
 ]
 ---
