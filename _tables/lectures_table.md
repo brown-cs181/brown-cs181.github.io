@@ -18,7 +18,7 @@ contents: [
   "Date": ["9/14/23"],
   "Topic": ["Global Alignment"],
   "Video": [],
-  "Extra Material": ["Hannahs Notes":"/lectures/9:14_Alignment.pdf"]
+  "Extra Material": ["Hannah's Notes":"/lectures/9:14_Alignment.pdf"]
 },
 ]
 ---
