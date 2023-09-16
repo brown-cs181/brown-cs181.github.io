@@ -17,7 +17,7 @@ contents: [
 {
   "Date": ["9/14/23"],
   "Topic": ["Global Alignment"],
-  "Video": [],
+  "Video": [{"recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7dd72984-61b8-4558-9481-b07c01326751&query=csci%202810"}],
   "Extra Material": ["Hannah's Notes":"/lectures/9:14_Alignment.pdf"]
 },
 ]
