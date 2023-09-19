@@ -20,6 +20,12 @@ contents: [
   "Video": [{"recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7dd72984-61b8-4558-9481-b07c01326751&query=csci%202810"}],
   "Extra Material": ["Hannah's Notes":"/lectures/9:14_Alignment.pdf"]
 },
+{
+  "Date": ["9/19/23"],
+  "Topic": ["Needleman-Wunsch Algorithm and BLOSUM Matrices"],
+  "Video": [],
+  "Extra Material": ["Hannah's Notes":"/lectures/Hannah’s Notes 2.pdf"]
+},
 ]
 ---
 //"Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9aa2bce4-5706-420f-9daa-af090116a740"}],
