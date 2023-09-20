@@ -23,7 +23,7 @@ contents: [
 {
   "Date": ["9/19/23"],
   "Topic": ["Needleman-Wunsch Algorithm and BLOSUM Matrices"],
-  "Video": [],
+  "Video": [{"recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b4779506-9ecf-41ba-945c-b07c013267aa"}],
   "Extra Material": ["Hannah's Notes":"/lectures/Hannah’s Notes 2.pdf"]
 },
 ]
