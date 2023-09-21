@@ -26,6 +26,12 @@ contents: [
   "Video": [{"recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b4779506-9ecf-41ba-945c-b07c013267aa"}],
   "Extra Material": ["Hannah's Notes":"/lectures/Hannah’s Notes 2.pdf"]
 },
+{
+  "Date": ["9/21/23"],
+  "Topic": ["Local Alignment"],
+  "Video": [],
+  "Extra Material": []
+},
 ]
 ---
 //"Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9aa2bce4-5706-420f-9daa-af090116a740"}],
