@@ -29,7 +29,7 @@ contents: [
 {
   "Date": ["9/21/23"],
   "Topic": ["Local Alignment"],
-  "Video": [],
+  "Video": [{"recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b1855c70-112b-468f-960d-b07c013267d2"}],
   "Extra Material": []
 },
 ]
