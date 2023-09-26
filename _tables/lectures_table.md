@@ -32,6 +32,12 @@ contents: [
   "Video": [{"recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b1855c70-112b-468f-960d-b07c013267d2"}],
   "Extra Material": []
 },
+{
+  "Date": ["9/26/23"],
+  "Topic": ["Intro to Affine Gap Alignment"],
+  "Video": [],
+  "Extra Material": []
+},
 ]
 ---
 //"Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9aa2bce4-5706-420f-9daa-af090116a740"}],
