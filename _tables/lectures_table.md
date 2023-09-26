@@ -36,7 +36,7 @@ contents: [
   "Date": ["9/26/23"],
   "Topic": ["Intro to Affine Gap Alignment"],
   "Video": [],
-  "Extra Material": []
+  "Extra Material": ["Hannah's Notes": "/lectures/Hannah’s Notes 3.pdf"]
 },
 ]
 ---
