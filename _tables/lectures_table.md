@@ -38,6 +38,12 @@ contents: [
   "Video": [],
   "Extra Material": ["Hannah's Notes": "/lectures/Hannah’s Notes 3.pdf"]
 },
+{
+  "Date": ["9/28/23"],
+  "Topic": ["Affine Gap Alignment Algorithm"],
+  "Video": [],
+  "Extra Material": ["Slides": "/lectures/AffineGapAlignment.pdf"]
+},
 ]
 ---
 //"Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9aa2bce4-5706-420f-9daa-af090116a740"}],
