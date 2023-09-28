@@ -42,7 +42,7 @@ contents: [
   "Date": ["9/28/23"],
   "Topic": ["Affine Gap Alignment"],
   "Video": [],
-  "Extra Material": ["Slides": "/lectures/AffineGapAlignment.pdf"]
+  "Extra Material": ["slides": "/lectures/AffineGapAlignment.pdf"]
 },
 ]
 ---
