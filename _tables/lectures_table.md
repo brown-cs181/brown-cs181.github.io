@@ -34,13 +34,13 @@ contents: [
 },
 {
   "Date": ["9/26/23"],
-  "Topic": ["Intro to Affine Gap Alignment"],
+  "Topic": ["More Local Alignment + Intro to Gap Alignment"],
   "Video": [],
   "Extra Material": ["Hannah's Notes": "/lectures/Hannah’s Notes 3.pdf"]
 },
 {
   "Date": ["9/28/23"],
-  "Topic": ["Affine Gap Alignment Algorithm"],
+  "Topic": ["Affine Gap Alignment"],
   "Video": [],
   "Extra Material": ["Slides": "/lectures/AffineGapAlignment.pdf"]
 },
