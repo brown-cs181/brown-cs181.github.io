@@ -35,7 +35,7 @@ contents: [
 {
   "Date": ["9/26/23"],
   "Topic": ["More Local Alignment + Intro to Gap Alignment"],
-  "Video": [],
+  "Video": [{"recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cb0e603f-ec69-43a3-9b95-b086017abaeb"}],
   "Extra Material": ["Hannah's Notes": "/lectures/Hannah’s Notes 3.pdf"]
 },
 {
