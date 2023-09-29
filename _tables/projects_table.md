@@ -8,10 +8,10 @@ contents: [
     "Support Files" : [{"files" : /assignments/zipped_files/cs181-warmup-2023.zip}]
    },
    {
-    "Project" : ["Project 1: Alignment"],
+    "Project" : [{"Project 1: Alignment" : "/assignments/CS1810_PR1_2023.pdf"}],
     "Out" : ["9/29/23"],
     "In" : ["10/12/23"],
-    "Support Files" : []
+    "Support Files" : [{"files" : /assignments/zipped_files/pr1_alignment.zip}]
    },
    {
     "Project" : ["Project 2: Pattern Matching"],
