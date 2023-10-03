@@ -44,6 +44,12 @@ contents: [
   "Video": [],
   "Extra Material": ["slides": "/lectures/AffineGapAlignment.pdf"]
 },
+{
+  "Date": ["10/3/23"],
+  "Topic": ["Sequence Alignment + Graph Theory"],
+  "Video": [],
+  "Extra Material": []
+},
 ]
 ---
 //"Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9aa2bce4-5706-420f-9daa-af090116a740"}],
