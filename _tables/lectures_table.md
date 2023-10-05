@@ -47,7 +47,7 @@ contents: [
 {
   "Date": ["10/3/23"],
   "Topic": ["Sequence Alignment + Graph Theory"],
-  "Video": [],
+  "Video": [{"recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=395081fc-eaae-4e3b-9e71-b08d01710e08"}],
   "Extra Material": []
 },
 ]
