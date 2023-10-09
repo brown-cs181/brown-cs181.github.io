@@ -50,6 +50,12 @@ contents: [
   "Video": [{"recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=395081fc-eaae-4e3b-9e71-b08d01710e08"}],
   "Extra Material": []
 },
+{
+  "Date": ["10/5/23"],
+  "Topic": ["Graph Algorithms"],
+  "Video": [{"recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=94f35e32-50ff-46af-bab6-b08d01710e8b"}],
+  "Extra Material": []
+},
 ]
 ---
 //"Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9aa2bce4-5706-420f-9daa-af090116a740"}],
