@@ -59,6 +59,12 @@ contents: [
 {
   "Date": ["10/10/23"],
   "Topic": ["Topological Sort + Intro to Pattern Matching"],
+  "Video": ["recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3693bddf-83b2-45a6-bf15-b08d01710ea2"],
+  "Extra Material": []
+},
+{
+  "Date": ["10/12/23"],
+  "Topic": ["Finite Automata and KMP"],
   "Video": [],
   "Extra Material": []
 },
@@ -66,3 +72,4 @@ contents: [
 ---
 //"Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9aa2bce4-5706-420f-9daa-af090116a740"}],
 //"Extra Material": [{"slides":"/lectures/Firstlecture2022.pdf"}]
+
