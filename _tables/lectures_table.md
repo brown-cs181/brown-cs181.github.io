@@ -65,8 +65,8 @@ contents: [
 {
   "Date": ["10/12/23"],
   "Topic": ["Finite Automata and KMP"],
-  "Video": [],
-  "Extra Material": [{"recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b21707ff-fcb5-401a-a8a2-b08d01710ec4"}]
+  "Video": [{"recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b21707ff-fcb5-401a-a8a2-b08d01710ec4"}],
+  "Extra Material": []
 },
 ]
 ---

@@ -14,10 +14,10 @@ contents: [
     "Support Files" : [{"files" : /assignments/zipped_files/pr1_alignment.zip}]
    },
    {
-    "Project" : ["Project 2: Pattern Matching"],
+    "Project" : [{"Project 2: Pattern Matching" : "/assignments/CS1810_PR2_2023.pdf"}],
     "Out" : ["10/13/23"],
     "In" : ["10/26/23"], 
-    "Support Files" : []
+    "Support Files" : [{"files" : /assignments/zipped_files/pr2_pattern_matching.zip}]
    },
    {
     "Project" : ["Project 3: Phylogeny"],
