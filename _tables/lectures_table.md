@@ -68,6 +68,18 @@ contents: [
   "Video": [{"recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b21707ff-fcb5-401a-a8a2-b08d01710ec4"}],
   "Extra Material": []
 },
+{
+  "Date": ["10/17/23"],
+  "Topic": ["Languages and DFAs"],
+  "Video": [{"recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1338476d-c5f7-4853-afb8-b08d01710edd"}],
+  "Extra Material": []
+},
+{
+  "Date": ["10/19/23"],
+  "Topic": ["Intro to KMP and Failure Function"],
+  "Video": [{"recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ad28fab3-7667-4be9-bd3e-b08d01710f04"}],
+  "Extra Material": []
+},
 ]
 ---
 //"Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9aa2bce4-5706-420f-9daa-af090116a740"}],
