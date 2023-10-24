@@ -84,7 +84,7 @@ contents: [
   "Date": ["10/24/23"],
   "Topic": ["More DFAs"],
   "Video": [],
-  "Extra Material": ["DFA slides coming soon..."]
+  "Extra Material": ["DFA Slides": "/lectures/DFA.pdf", "NFA Slides": "/lectures/NFA.pdf", "Regex Slides": "/lectures/Regular_Expressions.pdf"]
 },
 ]
 ---
