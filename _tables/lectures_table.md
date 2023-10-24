@@ -78,7 +78,7 @@ contents: [
   "Date": ["10/19/23"],
   "Topic": ["Intro to KMP and Failure Function"],
   "Video": [{"recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ad28fab3-7667-4be9-bd3e-b08d01710f04"}],
-  "Extra Material": []
+  "Extra Material": ["kmp slides": "/lectures/KMPAlgorithm.pdf", "failure func slids": "lectures/FailureFunctionAlgorithm.pdf"]
 },
 ]
 ---
