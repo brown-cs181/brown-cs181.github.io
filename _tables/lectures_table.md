@@ -84,7 +84,7 @@ contents: [
   "Date": ["10/24/23"],
   "Topic": ["More DFAs"],
   "Video": [],
-  "Extra Material": ["DFA coming soon..."]
+  "Extra Material": ["DFA slides coming soon..."]
 },
 ]
 ---
