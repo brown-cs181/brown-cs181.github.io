@@ -82,7 +82,7 @@ contents: [
 },
 {
   "Date": ["10/24/23"],
-  "Topic": ["More DFAs"],
+  "Topic": ["More DFAs and More KMP"],
   "Video": [],
   "Extra Material": ["DFA Slides": "/lectures/DFA.pdf", "NFA Slides": "/lectures/NFA.pdf", "Regex Slides": "/lectures/Regular_Expressions.pdf"]
 },
