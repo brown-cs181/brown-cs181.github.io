@@ -20,7 +20,7 @@ contents: [
    {
     "Homework" : [{"Homework 3: KMP and DFAs" : "/assignments/CS1810_HW3_2023.pdf"}],
     "Out" : ["10/13/23"],
-    "In" : ["10/26/23"]
+    "In" : ["10/29/23"]
    },
    {
     "Homework" : ["Homework 4: Suffix Trees and Phylogeny"],

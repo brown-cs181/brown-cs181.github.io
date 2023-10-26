@@ -34,6 +34,10 @@ links: []
 - [Knuth, Morris, Pratt /- Fast Pattern Matching in Strings (1977)](resources/ch2_readings/kmp_strings.pdf)
 - [Crochemore and Lecroq /- Pattern Matching and Text Compression Algorithms](resources/ch2_readings/pattern_matching_book.pdf)
 - [Pettorossi /- Automata Theory and Formal Languages](resources/ch2_readings/automata_theory_and_formal_languages.pdf)
+- [DFA Slides](resources/ch2_readings/DFA.pdf)
+- [NFA Slides](resources/ch2_readings/NFA.pdf)
+- [Regular Expression Slides](resources/ch2_readings/Regular_Expressions.pdf)
+- [Sisper /- Introduction to the Theory of Computation](resources/ch2_readings/Sipser_Introduction.to.the.Theory.of.Computation.3E.pdf)
 
 ### Eric Davidson Memorial Lecture Readings
 - [Eric Davidson: Master of the Universe" Developmental Biology 2016](resources/EricDavidson-MasterOfTheUniverse-DevBiol2016.pdf)
