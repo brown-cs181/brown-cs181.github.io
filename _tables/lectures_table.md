@@ -83,7 +83,7 @@ contents: [
 {
   "Date": ["10/24/23"],
   "Topic": ["More DFAs and More KMP"],
-  "Video": [],
+  "Video": [{"recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c1c40fa8-1cae-4431-a13f-b08d01710f21"}],
   "Extra Material": ["DFA Slides": "/lectures/DFA.pdf", "NFA Slides": "/lectures/NFA.pdf", "Regex Slides": "/lectures/Regular_Expressions.pdf"]
 },
 ]
