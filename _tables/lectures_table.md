@@ -86,6 +86,12 @@ contents: [
   "Video": [{"recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c1c40fa8-1cae-4431-a13f-b08d01710f21"}],
   "Extra Material": ["DFA Slides": "/lectures/DFA.pdf", "NFA Slides": "/lectures/NFA.pdf", "Regex Slides": "/lectures/Regular_Expressions.pdf"]
 },
+{
+  "Date": ["10/26/23"],
+  "Topic": ["Failure Function and KMP DFA algorithms"],
+  "Video": [{"recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ec8b21d8-5e21-48a7-8129-b08d01710f4c"}],
+  "Extra Material": []
+},
 ]
 ---
 //"Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9aa2bce4-5706-420f-9daa-af090116a740"}],
