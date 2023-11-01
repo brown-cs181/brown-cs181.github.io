@@ -92,6 +92,12 @@ contents: [
   "Video": [{"recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ec8b21d8-5e21-48a7-8129-b08d01710f4c"}],
   "Extra Material": []
 },
+{
+  "Date": ["10/31/23"],
+  "Topic": ["Proof of Failure Function Runtime and Intro to Suffix Trees"],
+  "Video": [{"recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d80f54f7-fc71-4bb3-8a20-b08d01710f63"}],
+  "Extra Material": []
+},
 ]
 ---
 //"Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9aa2bce4-5706-420f-9daa-af090116a740"}],
