@@ -98,6 +98,18 @@ contents: [
   "Video": [{"recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d80f54f7-fc71-4bb3-8a20-b08d01710f63"}],
   "Extra Material": []
 },
+{
+  "Date": ["11/2/23"],
+  "Topic": ["Midterm <3"],
+  "Video": [],
+  "Extra Material": []
+},
+{
+  "Date": ["11/7/23"],
+  "Topic": ["Suffix Trees and Burrows-Wheeler Transform"],
+  "Video": [{"recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7804f73f-4cd0-4a19-a7d1-b08d01710f99"}],
+  "Extra Material": []
+},
 ]
 ---
 //"Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9aa2bce4-5706-420f-9daa-af090116a740"}],
