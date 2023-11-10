@@ -110,6 +110,12 @@ contents: [
   "Video": [{"recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7804f73f-4cd0-4a19-a7d1-b08d01710f99"}],
   "Extra Material": []
 },
+{
+  "Date": ["11/9/23"],
+  "Topic": ["SRC Presentation and Wrapping Up Chapter 2"],
+  "Video": [{"recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=029511fa-d25f-46bf-bd16-b08d01710fb4"}],
+  "Extra Material": []
+},
 ]
 ---
 //"Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9aa2bce4-5706-420f-9daa-af090116a740"}],
