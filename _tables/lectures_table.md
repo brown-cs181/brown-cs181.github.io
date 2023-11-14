@@ -118,7 +118,7 @@ contents: [
 },
 {
   "Date": ["11/14/23"],
-  "Topic": ["Phylogenetic Trees"],
+  "Topic": ["UPGMA Algorithm"],
   "Video": [],
   "Extra Material": ["Phylogeny Slides": "lectures/Phylogeny.pdf"]
 },
