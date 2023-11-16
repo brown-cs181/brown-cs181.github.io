@@ -119,7 +119,7 @@ contents: [
 {
   "Date": ["11/14/23"],
   "Topic": ["UPGMA Algorithm"],
-  "Video": [],
+  "Video": [{"recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=abfcee04-8f12-4f84-806a-b08d01710fca"}],
   "Extra Material": ["Phylogeny Slides": "lectures/Phylogeny.pdf"]
 },
 ]
