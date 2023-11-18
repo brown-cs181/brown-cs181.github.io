@@ -28,7 +28,13 @@ contents: [
    {
     "Project" : ["Project 4: Hidden Markov Models"],
     "Out" : ["11/27/23"],
-    "In" : ["12/7/23"],
+    "In" : ["12/9/23"],
+    "Support Files" : []
+   },
+   {
+    "Project" : ["Project 4: Hidden Markov Models (Application)"],
+    "Out" : ["12/1/23"],
+    "In" : ["12/9/23"],
     "Support Files" : []
    }
 ]
