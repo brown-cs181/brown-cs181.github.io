@@ -125,7 +125,7 @@ contents: [
 {
   "Date": ["11/16/23"],
   "Topic": ["Neighbor-Joining Algorithm"],
-  "Video": [{"recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=abfcee04-8f12-4f84-806a-b08d01710fca"}],
+  "Video": [{"recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ebb9d07e-651a-483a-8705-b08d01710fe4"}],
   "Extra Material": ["Phylogeny Slides": "lectures/Phylogeny.pdf"]
 },
 ]
