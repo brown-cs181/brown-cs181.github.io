@@ -128,6 +128,12 @@ contents: [
   "Video": [{"recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ebb9d07e-651a-483a-8705-b08d01710fe4"}],
   "Extra Material": ["Phylogeny Slides": "lectures/Phylogeny.pdf"]
 },
+{
+  "Date": ["11/21/23"],
+  "Topic": ["Intro to HMMs"],
+  "Video": [{"recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=28a5df26-a70c-469c-bd7f-b08d01710ffa"}],
+  "Extra Material": []
+},
 ]
 ---
 //"Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9aa2bce4-5706-420f-9daa-af090116a740"}],
