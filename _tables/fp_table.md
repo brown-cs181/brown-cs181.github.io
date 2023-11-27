@@ -7,7 +7,7 @@ contents: [
    },
    {
     "Checkpoints" : [Project Presentations],
-    "Dates" : ["12/6/23-12/8/23"]
+    "Dates" : ["12/6/23-12/7/23"]
    },
   ]
 ---
