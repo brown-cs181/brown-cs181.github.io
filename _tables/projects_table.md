@@ -26,10 +26,10 @@ contents: [
     "Support Files" : [{"files" : "/assignments/zipped_files/pr3_phylogeny.zip"}, {"Basic UPGMA" : "/resources/UPGMA.pptx"}, {"Priority Queue UPGMA" : "/resources/UPGMA_PQ.pptx"}]
    },
    {
-    "Project" : ["Project 4: Hidden Markov Models"],
+    "Project" : [{"Project 4: Hidden Markov Models" : "/assignments/CS1810_PR4_2023.pdf"}],
     "Out" : ["11/27/23"],
     "In" : ["12/9/23"],
-    "Support Files" : []
+    "Support Files" : [{"files" : "/assignments/zipped_files/pr4_hmm.zip"}]
    },
    {
     "Project" : ["Project 4: Hidden Markov Models (Application)"],
