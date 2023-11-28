@@ -132,6 +132,12 @@ contents: [
   "Date": ["11/21/23"],
   "Topic": ["Intro to HMMs"],
   "Video": [{"recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=28a5df26-a70c-469c-bd7f-b08d01710ffa"}],
+  "Extra Material": []
+},
+{
+  "Date": ["11/28/23"],
+  "Topic": ["HMMs Continued"],
+  "Video": [],
   "Extra Material": ["Viterbi Slides": "lectures/Viterbi_Algorithm.pdf"]
 },
 ]
