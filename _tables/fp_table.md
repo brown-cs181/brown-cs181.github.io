@@ -10,7 +10,7 @@ contents: [
     "Dates" : ["12/6/23-12/8/23"]
    },
    {
-    "Checkpoints" : [Project Powerpoint, Paper, and Code],
+    "Checkpoints" : ["Project Powerpoint, Paper, and Code"],
     "Dates" : ["12/11/23"]
    },
   ]
