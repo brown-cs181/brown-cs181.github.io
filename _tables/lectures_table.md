@@ -137,7 +137,7 @@ contents: [
 {
   "Date": ["11/28/23"],
   "Topic": ["HMMs Continued"],
-  "Video": [],
+  "Video": [{"recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9e94ba87-5253-4d2d-a5ba-b08d0171103d"}],
   "Extra Material": ["Viterbi Slides": "lectures/Viterbi_Algorithm.pdf"]
 },
 ]
