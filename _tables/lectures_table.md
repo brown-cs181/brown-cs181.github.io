@@ -144,7 +144,6 @@ contents: [
   "Date": ["11/30/23"],
   "Topic": ["Viterbi"],
   "Video": [],
-  "Video": []
   "Extra Material": ["Viterbi Slides": "lectures/Viterbi_Algorithm.pdf"]
 },
 ]
