@@ -137,17 +137,14 @@ contents: [
 {
   "Date": ["11/28/23"],
   "Topic": ["HMMs Continued"],
-<<<<<<< HEAD
-  "Video": [],
+  "Video": [{"recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9e94ba87-5253-4d2d-a5ba-b08d0171103d"}],
   "Extra Material": []
 },
 {
   "Date": ["11/30/23"],
   "Topic": ["Viterbi"],
   "Video": [],
-=======
-  "Video": [{"recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9e94ba87-5253-4d2d-a5ba-b08d0171103d"}],
->>>>>>> 9d870d344c080261ba35d8329847a8a09843c9d9
+  "Video": []
   "Extra Material": ["Viterbi Slides": "lectures/Viterbi_Algorithm.pdf"]
 },
 ]
