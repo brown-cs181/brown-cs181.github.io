@@ -138,6 +138,12 @@ contents: [
   "Date": ["11/28/23"],
   "Topic": ["HMMs Continued"],
   "Video": [],
+  "Extra Material": []
+},
+{
+  "Date": ["11/30/23"],
+  "Topic": ["Viterbi"],
+  "Video": [],
   "Extra Material": ["Viterbi Slides": "lectures/Viterbi_Algorithm.pdf"]
 },
 ]
