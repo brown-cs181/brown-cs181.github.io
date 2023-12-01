@@ -143,7 +143,7 @@ contents: [
 {
   "Date": ["11/30/23"],
   "Topic": ["Viterbi"],
-  "Video": [],
+  "Video": [{"recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cd32fc70-7c4d-4173-a589-b08d01711058"}],
   "Extra Material": ["Viterbi Slides": "lectures/Viterbi_Algorithm.pdf"]
 },
 ]

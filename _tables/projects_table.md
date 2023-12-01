@@ -32,7 +32,7 @@ contents: [
     "Support Files" : [{"files" : "/assignments/zipped_files/pr4_hmm.zip"}]
    },
    {
-    "Project" : ["Project 4: Hidden Markov Models (Application)"],
+    "Project" : [{"Project 4: Hidden Markov Models (Application)" : "https://hackmd.io/zCnJIWG4RN6kzsNe5wLUtw?view"}],
     "Out" : ["12/1/23"],
     "In" : ["12/9/23"],
     "Support Files" : []
