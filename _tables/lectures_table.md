@@ -152,6 +152,12 @@ contents: [
   "Video": [{"recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=db2cd70d-67a6-46ff-ba37-b08d01711074"}],
   "Extra Material": []
 },
+{
+  "Date": ["12/7/23"],
+  "Topic": ["Markov Chains"],
+  "Video": [{"recording":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=def9c2ac-91b9-482e-bb33-b08d017110a4"}],
+  "Extra Material": []
+},
 ]
 ---
 //"Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9aa2bce4-5706-420f-9daa-af090116a740"}],
