@@ -9,7 +9,7 @@ links: []
 
 <!-- # {{ page.title }} -->
 
-All assignments are due on Gradescope at 11:59pm Eastern Time.
+All CS181 assignments are due on Gradescope at 11:59pm Eastern Time.
 
 ## LaTeX Template
 
