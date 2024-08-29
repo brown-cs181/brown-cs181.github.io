@@ -2,7 +2,7 @@
 title: Calendar
 windowTitle: CALENDAR
 layout: default
-icon: hours_icon.png
+icon: chicken.png
 link_types: []
 links: []
 ---

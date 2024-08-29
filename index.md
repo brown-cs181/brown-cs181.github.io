@@ -2,7 +2,7 @@
 layout: default
 title: Home
 windowTitle: WELCOME TO CS 181, COMPUTATIONAL MOLECULAR BIOLOGY! 
-icon: home_icon.png
+icon: farm.png
 link_types: ["QuickLinks"]
 links: [
   {

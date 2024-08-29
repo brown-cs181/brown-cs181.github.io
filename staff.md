@@ -2,7 +2,7 @@
 layout: default
 title: Staff
 windowTitle: STAFF
-icon: staff_icon.png
+icon: goat.png
 link_types: []
 links: []
 ---
