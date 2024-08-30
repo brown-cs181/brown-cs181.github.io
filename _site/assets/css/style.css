@@ -250,6 +250,7 @@ table td { border: 1px solid #e8e8e8; }
 @media only screen and (max-width: 1020px) { .site-sidebar .sidebar-wrapper .site-nav .trigger { flex-direction: column; } }
 .site-sidebar .link-wrapper { display: flex; flex-direction: column; align-items: center; justify-content: center; cursor: pointer; border-radius: 10px; padding-left: 2em; padding-right: 2em; transition: 0.3s ease; min-width: 85px; max-width: 48%; }
 .site-sidebar .link-wrapper .image { transition: transform 0.2s ease-in-out; }
+.site-sidebar .link-wrapper .image img { width: 100px; /* Adjusted icon size */ height: auto; max-height: 100px; /* Ensure the icon height does not exceed this value */ }
 .site-sidebar .link-wrapper .image:hover { transform: scale(1.1) rotate(1.5deg); }
 .site-sidebar .link-wrapper .text { display: flex; justify-content: center; align-items: center; color: #dadada; font-weight: bold; font-size: 0.9rem; background-color: #295a4e; border-radius: 0.7rem; padding: 0.2rem; }
 
