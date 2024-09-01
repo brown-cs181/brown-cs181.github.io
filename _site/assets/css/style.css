@@ -235,7 +235,6 @@ table td { border: 1px solid #e8e8e8; }
 .uta-container .staff-wrapper .staff-photo .staff-img { grid-column: 1; grid-row: 1; position: relative; z-index: 3; }
 @media only screen and (max-width: 600px) { .uta-container .staff-wrapper .staff-photo { width: 100%; height: 200px; } }
 .uta-container .staff-wrapper .staff-photo .throwback-img { grid-column: 1; grid-row: 1; z-index: 1; }
-.uta-container .staff-wrapper:hover .staff-photo .staff-img { display: none; }
 .uta-container .staff-wrapper .staff-info { height: max-content; display: flex; flex-direction: column; }
 @media only screen and (max-width: 600px) { .uta-container .staff-wrapper .staff-info { width: 100%; } }
 .uta-container .staff-wrapper .staff-info .staff-name { font-weight: bold; }
