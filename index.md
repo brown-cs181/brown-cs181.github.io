@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Home
-windowTitle: WELCOME TO CS 181, COMPUTATIONAL MOLECULAR BIOLOGY! 
+windowTitle: WELCOME TO CS 1810, COMPUTATIONAL MOLECULAR BIOLOGY! 
 icon: farm.png
 link_types: ["QuickLinks"]
 links: [
@@ -51,15 +51,15 @@ The aim of this course is to provide an introduction to computational molecular 
 
 Each chapter is devoted to a class of basic computational problems related to the analysis of DNA, RNA, and protein sequences and their molecular function. Our journey in each chapter is driven by a set of beautiful algorithms. A "beautiful" algorithm is one that is rigorous, practical, elegantly simple, and easy to implement. In addition to these beautiful algorithms, each chapter contains a Foundations section that gives a detailed presentation of the biological problems discussed as well as the theoretical computer science and statatistical results that led to the invention of the algorithms. This class provides a serious introduction to the field of computational biology both for potential concentrators and for those who may take only a single course in the subject.
 
-If you're enjoying the class, consider taking CS 182 in Spring 2024! [Here](resources/182oldSyllabus.pdf) is an old syllabus from the course (2020 edition).
+If you're enjoying the class, consider taking CS1820 in Spring 2025! [Here](resources/182oldSyllabus.pdf) is an old syllabus from the course (2020 edition).
 
-<i> Historical note: CS181 was first taught at Brown 24 years ago by Professor Franco Preparata (i.e. before the completion of the Human Genome Project). This year's offering is the 25th incarnation of this foundational course in computational biology. See the Resources page for a biology primer written by Prof. Preparata. </i>
+<i> Historical note: CS1810 was first taught at Brown 24 years ago by Professor Franco Preparata (i.e. before the completion of the Human Genome Project). This year's offering is the 25th incarnation of this foundational course in computational biology. See the Resources page for a biology primer written by Prof. Preparata. </i>
 
 
 ### FAQ
 <details>
   <summary>Who takes the course?</summary>
-  As an interdisciplinary course, CS181 attracts a diverse group of students. Past students have ranged from sophomores concentrating in Computer Science and Computational Biology through Ph.D. students in Computer Science, Applied Mathematics, and Biology. The course staff will do its best to ensure that all students have a chance to succeed. Please do not hesitate to talk to a member of the course staff if you have trouble deciding whether CS181 is a good fit for you. 
+  As an interdisciplinary course, CS1810 attracts a diverse group of students. Past students have ranged from sophomores concentrating in Computer Science and Computational Biology through Ph.D. students in Computer Science, Applied Mathematics, and Biology. The course staff will do its best to ensure that all students have a chance to succeed. Please do not hesitate to talk to a member of the course staff if you have trouble deciding whether CS181 is a good fit for you. 
 
 </details>
 
@@ -91,7 +91,7 @@ If you're enjoying the class, consider taking CS 182 in Spring 2024! [Here](reso
   <summary>I am interested in learning how to analyze *-Seq data from my (advisor's) lab.
   Will this course help me?</summary>
 
-  Possibly, but perhaps not in the way that you expect. The goals of CS181 are to teach the algorithmic concepts that underlie a wide variety of software that is used to analyze biological data, particularly in genetics, genomics, and proteomics. The course will not teach you how to use any particular biological software package. Rather, you will learn how this software works, and more importantly for the long-term, how to think about biological problems in a computational way. Thus, when the latest and greatest technology for measuring DNA/RNA/protein is released in 5 or 10 years' time, you will have some algorithmic skills to work with this data, without waiting for the rest of the community to develop tools. If your interests are more narrowly focused on a particular, near-term application, another course might be more appropriate.
+  Possibly, but perhaps not in the way that you expect. The goals of CS1810 are to teach the algorithmic concepts that underlie a wide variety of software that is used to analyze biological data, particularly in genetics, genomics, and proteomics. The course will not teach you how to use any particular biological software package. Rather, you will learn how this software works, and more importantly for the long-term, how to think about biological problems in a computational way. Thus, when the latest and greatest technology for measuring DNA/RNA/protein is released in 5 or 10 years' time, you will have some algorithmic skills to work with this data, without waiting for the rest of the community to develop tools. If your interests are more narrowly focused on a particular, near-term application, another course might be more appropriate.
 </details>
 
 <details>

@@ -91,6 +91,6 @@ links: []
 - [Eric Davidson's Regulatory Genome for Computer Science: Causality, Logic, and Proof Principles of the Genomic cis-Regulatory Code](resources/10.pdf)
 
 ### After CS181
-Professor Istrail teaches CS182, *Algorithmic Foundations of Computational Biology* every other spring. See [here](resources/cs182.pdf) for a list of course topics. The course will next be offered in Spring 2024.
+Professor Istrail teaches CS1820, *Algorithmic Foundations of Computational Biology*, every other spring. See [here](resources/cs182.pdf) for a list of course topics. The course will next be offered in Spring 2025.
 
 ---
