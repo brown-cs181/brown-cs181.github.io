@@ -2,6 +2,6 @@
 name: Sissy Han (UTA)
 role: staff
 favorite_theme_animal: Brachiosaurus
-photo: chicken.png
+photo: 
 throwback_photo: colin_alt.jpg
 ---
