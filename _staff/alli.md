@@ -1,7 +1,7 @@
 ---
-name: Lisa Duan (HTA)
+name: Alli Jin (HTA)
 role: staff
 favorite_theme_animal: Stegosaurus
-photo: lisa.jpg
+photo: alli.jpg
 throwback_photo: lisa_alt.jpg
 ---

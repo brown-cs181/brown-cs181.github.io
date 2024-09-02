@@ -6,20 +6,21 @@
       <div class="staff-img">
         <img class="staff-image" src="{{site.baseurl}}/assets/images/staff/{{page.photo}}" onerror="this.src = '{{site.baseurl}}/assets/images/staff/dino.jpg';" alt="{{page.name}} photo">
       </div>
-      <!-- {% endif %}
-      {% if page.throwback_photo %}
-      <div class="throwback-img">
+      {% endif %}
+      <!-- <div class="throwback-img">
         <img class="staff-image" src="{{site.baseurl}}/assets/images/staff/{{page.throwback_photo}}" onerror="this.src = '{{site.baseurl}}/assets/images/staff/dino.jpg';" alt="{{page.name}} photo">
-      </div>
-      {% endif %} -->
+      </div> -->
+      <div class="speech-bubble">This is the speech bubble text!</div>
+
+
     </div>
     <div class="staff-info">
       <h3 class="staff-name">
         {{ page.name }}
       </h3>
-      {% if page.favorite_theme_animal %}
+      <!-- {% if page.favorite_theme_animal %}
       <p class="staff-pronouns">Favorite Dinosaur: {{ page.favorite_theme_animal }}</p>
-      {% endif %}
+      {% endif %} -->
     </div>
   </div>
 </div>

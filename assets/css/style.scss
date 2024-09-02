@@ -22,7 +22,7 @@
 
     .staff {
       width: fit-content;
-      max-width: 188px;
+      max-width: 200px;
       flex-wrap: wrap;
       display: flex;
       flex: 0 0 31%;
@@ -39,12 +39,13 @@
       flex-direction: column;
       flex-wrap: wrap;
       gap: 20px;
-      overflow: hidden;
+      overflow: visible;
       transition: 0.2s ease;
 
       .staff-photo {
         position: relative;
         max-width: 100%;
+        height: auto;
         flex-wrap: wrap;
         display: grid;
         justify-content: center;
@@ -52,6 +53,7 @@
 
         .staff-img {
           // display: block;
+          height: 200px;
           grid-column: 1; 
           grid-row: 1;
           position: relative;
@@ -63,14 +65,18 @@
           height: 200px;
         }
 
-        .throwback-img {
-          grid-column: 1; 
-          grid-row: 1;
-          z-index: 1;
-        }
+        // .throwback-img {
+        //   grid-column: 1; 
+        //   grid-row: 1;
+        //   z-index: 1;
+        // }
 
         .staff-image {
-          // object-fit: contain;
+          object-fit: contain;
+          width: 200px;
+          max-height: 200px; 
+          object-fit: cover;
+          // max-height: 200px;
         }
       }
 
@@ -81,6 +87,57 @@
       //       }
       //     }
       //   }
+
+
+      // .staff-photo {
+      //   position: relative;
+      // }
+      
+      .speech-bubble {
+        position: absolute;
+        bottom: 70%; /* Position it above the staff photo */
+        left: 50%;
+        transform: translateX(-50%);
+        padding: 15px;
+        background-color: white; /* Semi-transparent background */
+        color: black;
+        text-align: center;
+        border-radius: 50%; /* Makes the bubble circular */
+        display: none; /* Hidden by default */
+        border: 2px solid #000;
+        z-index: 10; /* Ensure it overlays other content */
+        min-width: 200px; /* Minimum width of the bubble */
+        max-width: 200px; /* Maximum width of the bubble */
+        font-size: 12px;
+        align-items: center
+        // overflow: visible; /* Ensures the text doesn't spill out */
+      }
+
+      // .speech-bubble::after {
+      //   content: '';
+      //   position: absolute;
+      //   top: 100%; /* Arrow at the bottom of the speech bubble */
+      //   left: 50%;
+      //   transform: translateX(-50%);
+      //   border-width: 10px;
+      //   border-style: solid;
+      //   border-color: #000 transparent transparent transparent; /* Arrow color */
+      // }
+      
+    &:hover {
+      .staff-photo {
+        .speech-bubble {
+          display: block;
+          width: auto; /* Allows the width to adjust based on content */
+          height: auto;
+          overflow: visible;
+        }
+      }
+    }
+      // .staff-photo:hover .speech-bubble {
+      //   display: block; /* Show the speech bubble on hover */
+      // }
+      
 
       .staff-info {
         height: max-content;
