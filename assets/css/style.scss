@@ -74,7 +74,7 @@
         .staff-image {
           object-fit: contain;
           width: 200px;
-          max-height: 200px; 
+          height: 200px; 
           object-fit: cover;
           // max-height: 200px;
         }
@@ -94,6 +94,7 @@
       // }
       
       .speech-bubble {
+        white-space: pre-wrap;
         position: absolute;
         bottom: 70%; /* Position it above the staff photo */
         left: 50%;
@@ -113,16 +114,16 @@
         // overflow: visible; /* Ensures the text doesn't spill out */
       }
 
-      // .speech-bubble::after {
-      //   content: '';
-      //   position: absolute;
-      //   top: 100%; /* Arrow at the bottom of the speech bubble */
-      //   left: 50%;
-      //   transform: translateX(-50%);
-      //   border-width: 10px;
-      //   border-style: solid;
-      //   border-color: #000 transparent transparent transparent; /* Arrow color */
-      // }
+      .speech-bubble::after {
+        content: '';
+        position: absolute;
+        top: 100%; /* Arrow at the bottom of the speech bubble */
+        left: 50%;
+        transform: translateX(-50%);
+        border-width: 10px;
+        border-style: solid;
+        border-color: white transparent transparent transparent; /* White arrow with transparent sides */
+      }
       
     &:hover {
       .staff-photo {

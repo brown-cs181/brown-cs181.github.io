@@ -10,7 +10,9 @@
       <!-- <div class="throwback-img">
         <img class="staff-image" src="{{site.baseurl}}/assets/images/staff/{{page.throwback_photo}}" onerror="this.src = '{{site.baseurl}}/assets/images/staff/dino.jpg';" alt="{{page.name}} photo">
       </div> -->
-      <div class="speech-bubble">This is the speech bubble text!</div>
+      {% if page.speech_bubble %}
+        <div class="speech-bubble">{{ page.speech_bubble }}</div>
+        {% endif %}
 
 
     </div>
