@@ -16,9 +16,9 @@ links: []
 - [Short Python Primer](https://docs.google.com/presentation/d/1FMxC25lMti8vPowQQuw1HgdwmVns6QLrAcvHuj6vJVI/edit#slide=id.p)
 - [More extensive Python primer](resources/Python_Primer.pdf)
 
-### SRC Resources 
+<!-- ### SRC Resources 
 - [Introduction to Ethical Theories](https://docs.google.com/document/d/11udBvXQeYcVVA22aJYedoXB2r1z2N-dwco2Im17YHhE/edit)
-- [Socially Responsible Analysis of Biological Algorithms and Models](https://docs.google.com/document/d/1s35yL30_M5P_d5_ky9guZKtaixM_RaBHOD14T6rSG_E/edit?usp=sharing)
+- [Socially Responsible Analysis of Biological Algorithms and Models](https://docs.google.com/document/d/1s35yL30_M5P_d5_ky9guZKtaixM_RaBHOD14T6rSG_E/edit?usp=sharing) -->
 
 ### Chapter 1 Readings
 - [Basic Local Alignment Search Tool](resources/ch1_readings/Basic_local_alignment_search_tool.pdf)
@@ -90,7 +90,7 @@ links: []
 - [How does the regulatory genome work?](resources/9.pdf)
 - [Eric Davidson's Regulatory Genome for Computer Science: Causality, Logic, and Proof Principles of the Genomic cis-Regulatory Code](resources/10.pdf)
 
-### After CS181
-Professor Istrail teaches CS1820, *Algorithmic Foundations of Computational Biology*, every other spring. See [here](resources/cs182.pdf) for a list of course topics. The course will next be offered in Spring 2025.
+### After CS1810
+Professor Istrail will be teaching CS2840, *Advanced Algorithms in Computational Biology and Medical Bioinformatics*, in Spring 2025. Professor Istrail teaches CS1820, *Algorithmic Foundations of Computational Biology*, every other spring. See [here](resources/cs182.pdf) for a list of course topics. The course will next be offered in Spring 2026. 
 
 ---
