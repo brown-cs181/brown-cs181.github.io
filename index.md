@@ -7,32 +7,32 @@ link_types: ["QuickLinks"]
 links: [
   {
     "Title" : "Syllabus",
-     "Link" : "/quicklinks/CSCI1810-Syllabus_2023.pdf",
+     "Link" : "/quicklinks/2024_syllabus.pdf",
      "Type" : "QuickLinks"
   },
   {
     "Title" : "Collaboration Policy",
-    "Link" : "https://drive.google.com/file/d/1-EL_YSJy3cY87Fj0I42zsRCgM9grq8iB/view",
+    "Link" : "/quicklinks/2024_collab.pdf",
     "Type" : "QuickLinks"
   },
   {
     "Title" : "Late Policy",
-    "Link" : "https://drive.google.com/file/d/1BNLmAzdlZdjCVoxn67W_IPkFrre80_a7/view",
+    "Link" : "/quicklinks/2024_late_policy.pdf",
     "Type" : "QuickLinks"
   },
   {
     "Title" : "Gradescope",
-    "Link" : "https://www.gradescope.com/courses/562099",
+    "Link" : "https://www.gradescope.com/courses/847795",
     "Type" : "QuickLinks"
   },
   {
     "Title" : "EdStem",
-    "Link" : "https://edstem.org/us/courses/46578",
+    "Link" : "",
     "Type" : "QuickLinks"
   },
   {
     "Title" : "Anonymous Feedback Form",
-    "Link" : "https://docs.google.com/forms/d/e/1FAIpQLSftSOnlH523UNP6uCMf6VWyQ9VbSQf5Q3j-Bqt8dFhlHb2qTg/viewform",
+    "Link" : "https://docs.google.com/forms/d/e/1FAIpQLSeV7rgkgvoz1bRz2FN1ERo32edqCKFghzC_GMNKdUfF1GjdWg/viewform?usp=sf_link",
     "Type" : "QuickLinks"
   },
 ]
