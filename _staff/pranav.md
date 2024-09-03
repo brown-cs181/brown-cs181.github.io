@@ -8,6 +8,6 @@ speech_bubble: |
   Pronouns: he/him 
   Major: CS 
   Class: 2025
-  Hometown: 
+  Hometown: West Windsor, NJ
   Fun fact: I love baking and I have a cooking instagram (@pranavs_pantry)
 ---
