@@ -12,7 +12,7 @@ contents: [
   "Date": ["9/10/24"],
   "Topic": ["Intro to Alignment"],
   "Video": [],
-  "Extra Material": []
+  "Extra Material": [{"slides":"/lectures/IntroToAlignment.pdf"}]
 },
 # {
 #   "Date": ["9/14/23"],
