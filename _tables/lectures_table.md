@@ -8,12 +8,12 @@ contents: [
   "Video": [],
   "Extra Material": [{"slides":"/lectures/Firstlecture2022.pdf"}]
 },
-# {
-#   "Date": ["9/12/23"],
-#   "Topic": ["Intro to Alignment"],
-#   "Video": [],
-#   "Extra Material": []
-# },
+{
+  "Date": ["9/10/24"],
+  "Topic": ["Intro to Alignment"],
+  "Video": [],
+  "Extra Material": []
+},
 # {
 #   "Date": ["9/14/23"],
 #   "Topic": ["Global Alignment"],
