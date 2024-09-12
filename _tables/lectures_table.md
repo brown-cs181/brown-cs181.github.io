@@ -16,7 +16,7 @@ contents: [
 },
 {
   "Date": ["9/12/23"],
-  "Topic": ["Global Alignment"],
+  "Topic": ["Global Alignment + Scoring Schemes"],
   "Video": [],
   "Extra Material": []
 },
