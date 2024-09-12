@@ -27,7 +27,7 @@ links: [
   },
   {
     "Title" : "EdStem",
-    "Link" : "",
+    "Link" : "https://edstem.org/us/courses/65851/discussion/",
     "Type" : "QuickLinks"
   },
   {
