@@ -18,7 +18,7 @@ contents: [
   "Date": ["9/12/23"],
   "Topic": ["Global Alignment + Scoring Schemes"],
   "Video": [],
-  "Extra Material": [{"Hannah's notes from back in the day ;)":"/Users/hannahbeakley/Desktop/cs1810/2024_website/brown-cs181.github.io/lectures/9:14_Alignment.pdf"}]
+  "Extra Material": [{"Hannah's Notes)":"/lectures/9:14_Alignment.pdf"}]
 },
 # {
 #   "Date": ["9/19/23"],
