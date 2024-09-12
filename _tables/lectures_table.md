@@ -18,7 +18,7 @@ contents: [
   "Date": ["9/12/23"],
   "Topic": ["Global Alignment + Scoring Schemes"],
   "Video": [],
-  "Extra Material": [{"Hannah's Notes)":"/lectures/9:14_Alignment.pdf"}]
+  "Extra Material": [{"Hannah's Notes":"/lectures/9:14_Alignment.pdf"}]
 },
 # {
 #   "Date": ["9/19/23"],
