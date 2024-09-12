@@ -14,12 +14,12 @@ contents: [
   "Video": [],
   "Extra Material": [{"slides":"/lectures/IntroToAlignment.pdf"}]
 },
-# {
-#   "Date": ["9/14/23"],
-#   "Topic": ["Global Alignment"],
-#   "Video": [],
-#   "Extra Material": []
-# },
+{
+  "Date": ["9/12/23"],
+  "Topic": ["Global Alignment"],
+  "Video": [],
+  "Extra Material": []
+},
 # {
 #   "Date": ["9/19/23"],
 #   "Topic": ["Needleman-Wunsch Algorithm and BLOSUM Matrices"],
