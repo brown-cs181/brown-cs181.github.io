@@ -7,7 +7,7 @@ contents: [
     "In" : ["9/13/24"]
    },
    {
-    "Homework" : ["Homework 1: Alignment"],
+    "Homework" : [{"Homework 1: Alignment": /assignments/CS1810_HW1_2024.pdf}],
     "Out" : ["9/14/24"],
     "In" : ["9/27/24"]
    },
