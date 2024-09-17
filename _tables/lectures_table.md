@@ -24,7 +24,7 @@ contents: [
   "Date": ["9/17/24"],
   "Topic": [Intro to Local Alignment"],
   "Video": [],
-  "Extra Material": [{"Hannah's Notes": "/lectures/Hannah’s Notes 3.pdf"}]
+  "Extra Material": [{"Hannah's Notes": "/lectures/local_notes.pdf"}]
 },
 # {
 #   "Date": ["9/21/23"],
