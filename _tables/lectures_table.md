@@ -15,17 +15,17 @@ contents: [
   "Extra Material": [{"slides":"/lectures/IntroToAlignment.pdf"}]
 },
 {
-  "Date": ["9/12/23"],
+  "Date": ["9/12/24"],
   "Topic": ["Global Alignment + Scoring Schemes"],
   "Video": [],
   "Extra Material": [{"Hannah's Notes":"/lectures/9:14_Alignment.pdf"}, {"More Notes":"/lectures/Hannah’s Notes 2.pdf"}]
 },
-# {
-#   "Date": ["9/19/23"],
-#   "Topic": ["Needleman-Wunsch Algorithm and BLOSUM Matrices"],
-#   "Video": [],
-#   "Extra Material": []
-# },
+{
+  "Date": ["9/17/24"],
+  "Topic": [Intro to Local Alignment"],
+  "Video": [],
+  "Extra Material": [{"Hannah's Notes": "/lectures/Hannah’s Notes 3.pdf"}]
+},
 # {
 #   "Date": ["9/21/23"],
 #   "Topic": ["Local Alignment"],
