@@ -26,12 +26,12 @@ contents: [
   "Video": [],
   "Extra Material": [{"Hannah's Notes": "/lectures/local_notes.pdf"}]
 },
-# {
-#   "Date": ["9/21/23"],
-#   "Topic": ["Local Alignment"],
-#   "Video": [],
-#   "Extra Material": []
-# },
+{
+  "Date": ["9/19/24"],
+  "Topic": ["More Smith-Waterman"],
+  "Video": [],
+  "Extra Material": []
+},
 # {
 #   "Date": ["9/26/23"],
 #   "Topic": ["More Local Alignment + Intro to Gap Alignment"],
