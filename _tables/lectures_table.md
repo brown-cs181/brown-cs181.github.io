@@ -36,7 +36,7 @@ contents: [
   "Date": ["9/24/24"],
   "Topic": ["Affine Gap Alignment"],
   "Video": [],
-  "Extra Material": [{"beautiful ppt": "/lectures/AffineGapAlignment.pdf"}]
+  "Extra Material": [{"beautiful ppt": "/lectures/AffineGapAlignment.pdf"}, {"Hannah's Notes":"/lectures/affine_notes.pdf"}]
 },
 # {
 #   "Date": ["9/28/23"],
