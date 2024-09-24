@@ -32,12 +32,12 @@ contents: [
   "Video": [],
   "Extra Material": [{"Hannah's Notes": "/lectures/local_and_gap.pdf"}]
 },
-# {
-#   "Date": ["9/26/23"],
-#   "Topic": ["More Local Alignment + Intro to Gap Alignment"],
-#   "Video": [],
-#   "Extra Material": []
-# },
+{
+  "Date": ["9/24/24"],
+  "Topic": ["Affine Gap Alignment"],
+  "Video": [],
+  "Extra Material": [{"beautiful ppt": "/lectures/AffineGapAlignment.pdf"}]
+},
 # {
 #   "Date": ["9/28/23"],
 #   "Topic": ["Affine Gap Alignment"],
