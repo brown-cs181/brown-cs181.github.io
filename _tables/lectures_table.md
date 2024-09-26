@@ -38,12 +38,12 @@ contents: [
   "Video": [],
   "Extra Material": [{"beautiful ppt": "/lectures/AffineGapAlignment.pdf"}, {"Hannah's Notes":"/lectures/affine_notes.pdf"}]
 },
-# {
-#   "Date": ["9/28/23"],
-#   "Topic": ["Affine Gap Alignment"],
-#   "Video": [],
-#   "Extra Material": []
-# },
+{
+  "Date": ["9/26/23"],
+  "Topic": ["Alignment + Graph Theory"],
+  "Video": [],
+  "Extra Material": []
+},
 # {
 #   "Date": ["10/3/23"],
 #   "Topic": ["Sequence Alignment + Graph Theory"],
