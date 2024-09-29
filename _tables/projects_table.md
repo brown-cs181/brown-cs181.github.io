@@ -8,7 +8,7 @@ contents: [
     "Support Files" : [] #{"files" : /assignments/zipped_files/cs181-warmup-2024.zip}
    },
    {
-    "Project" : ["Project 1: Alignment"],
+    "Project" : [{"Project 1: Alignment": /assignments/CS1810_PR1_2024.pdf}],
     "Out" : ["9/28/24"],
     "In" : ["10/11/24"],
     "Support Files" : []
