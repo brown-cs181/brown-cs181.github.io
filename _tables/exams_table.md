@@ -2,12 +2,12 @@
 cols: ["Exam", "Out", "In"]
 contents: [
   {
-    "Exam" : ["Midterm"],
+    "Exam" : ["Midterm (In-Person During Class)"],
     "Out" : [],
     "In" : ["10/31/24"]
    },
    {
-    "Exam" : ["Final Exam"],
+    "Exam" : ["Final Exam (In-Person)"],
     "Out" : [],
     "In" : ["12/14/24"]
    },
