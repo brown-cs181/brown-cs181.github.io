@@ -46,7 +46,7 @@ contents: [
 },
 {
   "Date": ["10/1/24"],
-  "Topic": ["Finishing up Alignment Graph Algs"],
+  "Topic": ["Graph Algorithms"],
   "Video": [],
   "Extra Material": []
 },
