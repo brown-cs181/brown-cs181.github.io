@@ -44,12 +44,12 @@ contents: [
   "Video": [],
   "Extra Material": []
 },
-# {
-#   "Date": ["10/3/23"],
-#   "Topic": ["Sequence Alignment + Graph Theory"],
-#   "Video": [],
-#   "Extra Material": []
-# },
+{
+  "Date": ["10/1/24"],
+  "Topic": ["Finishing up Alignment Graph Algs"],
+  "Video": [],
+  "Extra Material": []
+},
 # {
 #   "Date": ["10/5/23"],
 #   "Topic": ["Graph Algorithms"],
