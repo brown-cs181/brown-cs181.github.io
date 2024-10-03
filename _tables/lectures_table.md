@@ -50,6 +50,12 @@ contents: [
   "Video": [],
   "Extra Material": []
 },
+{
+  "Date": ["10/3/24"],
+  "Topic": ["Intro to DFAs"],
+  "Video": [],
+  "Extra Material": [{"slides":/lectures/DFA.pdf}]
+},
 # {
 #   "Date": ["10/5/23"],
 #   "Topic": ["Graph Algorithms"],
