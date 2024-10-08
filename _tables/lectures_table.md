@@ -56,12 +56,12 @@ contents: [
   "Video": [],
   "Extra Material": [{"slides":/lectures/DFA.pdf}]
 },
-# {
-#   "Date": ["10/5/23"],
-#   "Topic": ["Graph Algorithms"],
-#   "Video": [],
-#   "Extra Material": []
-# },
+{
+  "Date": ["10/8/24"],
+  "Topic": ["Regex and intro to KMP"],
+  "Video": [],
+  "Extra Material": []
+},
 # {
 #   "Date": ["10/10/23"],
 #   "Topic": ["Topological Sort"],
