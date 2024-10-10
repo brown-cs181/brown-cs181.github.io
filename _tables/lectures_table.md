@@ -62,6 +62,12 @@ contents: [
   "Video": [],
   "Extra Material": []
 },
+{
+  "Date": ["10/10/24"],
+  "Topic": ["KMP Algorithm"],
+  "Video": [],
+  "Extra Material": [{"Hannah's Notes":/lectures/kmp.pdf}]
+},
 # {
 #   "Date": ["10/10/23"],
 #   "Topic": ["Topological Sort"],
