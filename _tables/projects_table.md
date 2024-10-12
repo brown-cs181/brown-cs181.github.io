@@ -14,7 +14,7 @@ contents: [
     "Support Files" : []
    },
    {
-    "Project" : ["Project 2: Pattern Matching"],
+    "Project" : ["Project 2: Pattern Matching": /assignments/CS1810_PR2_2024.pdf],
     "Out" : ["10/12/24"],
     "In" : ["10/25/24"], 
     "Support Files" : []
