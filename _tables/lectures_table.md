@@ -69,12 +69,12 @@ contents: [
   "Video": [],
   "Extra Material": [{"Hannah's Notes":/lectures/kmp.pdf}]
 },
-# {
-#   "Date": ["10/10/23"],
-#   "Topic": ["Topological Sort"],
-#   "Video": [],
-#   "Extra Material": []
-# },
+{
+  "Date": ["10/15/24"],
+  "Topic": ["Failure Function"],
+  "Video": [],
+  "Extra Material": [{"Hannah's Notes":/lectures/failure_func.pdf}]
+},
 # {
 #   "Date": ["10/12/23"],
 #   "Topic": ["Finishing up Alignment Applications"],
