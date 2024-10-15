@@ -54,7 +54,7 @@ contents: [
   "Date": ["10/3/24"],
   "Topic": ["Intro to DFAs"],
   "Video": [],
-  "Extra Material": [{"slides":/lectures/DFA.pdf}
+  "Extra Material": [{"slides":/lectures/DFA.pdf},
   {"slides":/lectures/NFA.pdf}]
 },
 {
