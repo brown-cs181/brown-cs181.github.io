@@ -75,6 +75,12 @@ contents: [
   "Video": [],
   "Extra Material": [{"Hannah's Notes":/lectures/failure_func.pdf}]
 },
+{
+  "Date": ["10/17/24"],
+  "Topic": ["KMP"],
+  "Video": [],
+  "Extra Material": [{"slides":/lectures/kmp.pdf}]
+},
 # {
 #   "Date": ["10/12/23"],
 #   "Topic": ["Finishing up Alignment Applications"],
