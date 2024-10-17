@@ -79,7 +79,7 @@ contents: [
   "Date": ["10/17/24"],
   "Topic": ["KMP"],
   "Video": [],
-  "Extra Material": [{"slides":/lectures/kmp.pdf}]
+  "Extra Material": [{"slides":/lectures/KMPAlgorithm.pdf}]
 },
 # {
 #   "Date": ["10/12/23"],
