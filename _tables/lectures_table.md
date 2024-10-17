@@ -77,9 +77,10 @@ contents: [
 },
 {
   "Date": ["10/17/24"],
-  "Topic": ["KMP"],
+  "Topic": ["KMP + DFA Algorithms"],
   "Video": [],
-  "Extra Material": [{"first ppt":/lectures/FailureFunctionAlgorithm.pdf}, {"slides":/lectures/KMPAlgorithm.pdf}]
+  "Extra Material": [{"lecture slides":/lectures/FailureFunctionAlgorithm.pdf}, {"beautiful KMP ppt":/lectures/KMPAlgorithm.pdf},
+  "Hannah's Notes": /lectures/hb_dfa.pdf]
 },
 # {
 #   "Date": ["10/12/23"],
