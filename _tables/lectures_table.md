@@ -80,14 +80,14 @@ contents: [
   "Topic": ["KMP + DFA Algorithms"],
   "Video": [],
   "Extra Material": [{"failure func slides":/lectures/FailureFunctionAlgorithm.pdf}, {"beautiful KMP ppt":/lectures/KMPAlgorithm.pdf},
-  "Hannah's Notes": /lectures/hb_dfa.pdf]
+  {"Hannah's Notes": /lectures/hb_dfa.pdf}]
 },
-# {
-#   "Date": ["10/12/23"],
-#   "Topic": ["Finishing up Alignment Applications"],
-#   "Video": [],
-#   "Extra Material": []
-# },
+{
+  "Date": ["10/22/24"],
+  "Topic": ["Suffix Trees"],
+  "Video": [],
+  "Extra Material": [{"Hannah's Notes": /lectures/suffix_trees.pdf}]
+},
 # {
 #   "Date": ["10/17/23"],
 #   "Topic": ["Languages and DFAs"],
