@@ -54,14 +54,14 @@ contents: [
   "Date": ["10/3/24"],
   "Topic": ["Intro to DFAs"],
   "Video": [],
-  "Extra Material": [{"slides":/lectures/DFA.pdf},
-  {"slides":/lectures/NFA.pdf}]
+  "Extra Material": [{"DFA slides":/lectures/DFA.pdf},
+  {"NFA slides":/lectures/NFA.pdf}]
 },
 {
   "Date": ["10/8/24"],
   "Topic": ["Regex and intro to KMP"],
   "Video": [],
-  "Extra Material": []
+  "Extra Material": [{"regex slides":/lectures/Regular_Expressions.pdf}]
 },
 {
   "Date": ["10/10/24"],
@@ -79,7 +79,7 @@ contents: [
   "Date": ["10/17/24"],
   "Topic": ["KMP + DFA Algorithms"],
   "Video": [],
-  "Extra Material": [{"lecture slides":/lectures/FailureFunctionAlgorithm.pdf}, {"beautiful KMP ppt":/lectures/KMPAlgorithm.pdf},
+  "Extra Material": [{"failure func slides":/lectures/FailureFunctionAlgorithm.pdf}, {"beautiful KMP ppt":/lectures/KMPAlgorithm.pdf},
   "Hannah's Notes": /lectures/hb_dfa.pdf]
 },
 # {
