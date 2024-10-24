@@ -88,6 +88,12 @@ contents: [
   "Video": [],
   "Extra Material": [{"Hannah's Notes": /lectures/suffix_trees.pdf}]
 },
+{
+  "Date": ["10/24/24"],
+  "Topic": ["More Suffix Trees"],
+  "Video": [],
+  "Extra Material": []
+},
 # {
 #   "Date": ["10/17/23"],
 #   "Topic": ["Languages and DFAs"],
