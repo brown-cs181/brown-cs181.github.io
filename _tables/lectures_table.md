@@ -90,9 +90,9 @@ contents: [
 },
 {
   "Date": ["10/24/24"],
-  "Topic": ["More Suffix Trees"],
+  "Topic": ["More Suffix Trees and Some BW Transform"],
   "Video": [],
-  "Extra Material": []
+  "Extra Material": [{"Hannah's Notes": /lectures/more_trees.pdf}]
 },
 # {
 #   "Date": ["10/17/23"],
