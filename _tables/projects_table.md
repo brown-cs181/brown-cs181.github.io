@@ -14,13 +14,13 @@ contents: [
     "Support Files" : []
    },
    {
-    "Project" : ["Project 2: Pattern Matching": /assignments/CS1810_PR2_2024.pdf],
+    "Project" : [{"Project 2: Pattern Matching": /assignments/CS1810_PR2_2024.pdf}],
     "Out" : ["10/12/24"],
     "In" : ["10/25/24"], 
     "Support Files" : []
    },
    {
-    "Project" : ["Project 3: Phylogeny"],
+    "Project" : [{"Project 3: Phylogeny": /assignments/CS1810_PR3_2024}],
     "Out" : ["11/3/24"],
     "In" : ["11/18/24"],
     "Support Files" : [] # {"files" : "/assignments/zipped_files/pr3_phylogeny.zip"}, {"Basic UPGMA" : "/resources/UPGMA.pptx"}, {"Priority Queue UPGMA" : "/resources/UPGMA_PQ.pptx"}

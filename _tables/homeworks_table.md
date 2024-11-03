@@ -18,12 +18,12 @@ contents: [
     "Support Files": []
    },
    {
-    "Homework" : ["Homework 3: KMP and DFAs": /assignments/CS1810_HW3_2024.pdf],
+    "Homework" : [{"Homework 3: KMP and DFAs": /assignments/CS1810_HW3_2024.pdf}],
     "Out" : ["10/12/24"],
     "In" : ["10/21/24"]
    },
    {
-    "Homework" : ["Homework 4: Suffix Trees and Phylogeny"],
+    "Homework" : [{"Homework 4: Suffix Trees and Phylogeny": /assignments/CS1810_HW4_2024.pdf}],
     "Out" : ["11/3/24"],
     "In" : ["11/15/24"]
    },
