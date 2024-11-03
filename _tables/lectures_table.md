@@ -94,6 +94,18 @@ contents: [
   "Video": [],
   "Extra Material": [{"Hannah's Notes": /lectures/more_trees.pdf}]
 },
+{
+  "Date": ["10/29/24"],
+  "Topic": ["More BW and Regulatory Genomics"],
+  "Video": [],
+  "Extra Material": []
+},
+{
+  "Date": ["10/31/24"],
+  "Topic": ["Midterm"],
+  "Video": [],
+  "Extra Material": []
+},
 # {
 #   "Date": ["10/17/23"],
 #   "Topic": ["Languages and DFAs"],
