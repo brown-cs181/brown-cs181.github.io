@@ -106,6 +106,12 @@ contents: [
   "Video": [],
   "Extra Material": []
 },
+{
+  "Date": ["11/7/24"],
+  "Topic": ["UPGMA Intro"],
+  "Video": [],
+  "Extra Material": [{"Hannah's Notes": /lectures/upgma_notes.pdf}]
+},
 # {
 #   "Date": ["10/17/23"],
 #   "Topic": ["Languages and DFAs"],
