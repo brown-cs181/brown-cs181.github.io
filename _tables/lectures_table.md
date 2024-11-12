@@ -112,12 +112,12 @@ contents: [
   "Video": [],
   "Extra Material": [{"Hannah's Notes": /lectures/upgma_notes.pdf}]
 },
-# {
-#   "Date": ["10/17/23"],
-#   "Topic": ["Languages and DFAs"],
-#   "Video": [],
-#   "Extra Material": []
-# },
+{
+  "Date": ["11/12/24"],
+  "Topic": ["More Phylogeny"],
+  "Video": [],
+  "Extra Material": [{"Phylogeny Alg Ppts": /lectures/Phylogeny.pdf}]
+},
 # {
 #   "Date": ["10/19/23"],
 #   "Topic": ["Intro to KMP and Failure Function"],
