@@ -116,7 +116,7 @@ contents: [
   "Date": ["11/12/24"],
   "Topic": ["More Phylogeny"],
   "Video": [],
-  "Extra Material": [{"Phylogeny Alg Ppts": /lectures/Phylogeny.pdf}]
+  "Extra Material": [{"Phylogeny Alg Ppts": /lectures/Phylogeny.pdf}, {"Hannah's Notes": /lectures/more_upgma.pdf}]
 },
 # {
 #   "Date": ["10/19/23"],
