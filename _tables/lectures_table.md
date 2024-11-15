@@ -118,6 +118,12 @@ contents: [
   "Video": [],
   "Extra Material": [{"Phylogeny Alg Ppts": /lectures/Phylogeny.pdf}, {"Hannah's Notes": /lectures/more_upgma.pdf}]
 },
+{
+  "Date": ["11/14/24"],
+  "Topic": ["Neighboring-Joining Algorithm"],
+  "Video": [],
+  "Extra Material": [{"Hannah's Notes": /lectures/neighbors.pdf}]
+},
 # {
 #   "Date": ["10/19/23"],
 #   "Topic": ["Intro to KMP and Failure Function"],
