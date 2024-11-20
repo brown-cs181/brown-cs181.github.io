@@ -28,7 +28,7 @@ contents: [
     "In" : ["11/15/24"]
    },
    {
-    "Homework" : ["Homework 5: Hidden Markov Models"],
+    "Homework" : [{"Homework 5: Hidden Markov Models": /assignments/CS1810_HW5_2024.pdf}],
     "Out" : ["11/19/24"],
     "In" : ["12/6/24"]
    },
