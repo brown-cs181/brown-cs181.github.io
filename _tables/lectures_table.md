@@ -128,7 +128,13 @@ contents: [
   "Date": ["11/19/24"],
   "Topic": ["Intro to HMMs"],
   "Video": [],
-  "Extra Material": [{"Sorin's Notes": /lectures/sorins_notes.pdf}, {"Hannah's Notes": /lectures/hmm_overview.pdf}]
+  "Extra Material": [{"Hannah's Notes": /lectures/hmm_overview.pdf}]
+},
+{
+  "Date": ["11/21/24"],
+  "Topic": ["HMM Algorithms"],
+  "Video": [],
+  "Extra Material": [{"Sorin's Notes": /lectures/sorins_notes.pdf}]
 },
 # {
 #   "Date": ["10/19/23"],
