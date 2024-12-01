@@ -140,7 +140,7 @@ contents: [
   "Date": ["11/21/24"],
   "Topic": ["HMM Algorithms"],
   "Video": [],
-  "Extra Material": [{"Sorin's Notes": /lectures/sorins_notes.pdf}]
+  "Extra Material": [{"Hannah's Notes": /lectures/hmm_algs.pdf}, {"Sorin's Notes": /lectures/sorins_notes.pdf}]
 },
 {
   "Date": ["11/26/24"],
