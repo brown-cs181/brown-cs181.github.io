@@ -147,6 +147,12 @@ contents: [
   "Topic": ["HMM Applications"],
   "Video": [],
   "Extra Material": [{"Hannah's Notes": /lectures/hmm_applications.pdf}, Slides coming soon...]
+},
+{
+  "Date": ["12/3/24"],
+  "Topic": ["Genome Assembly"],
+  "Video": [],
+  "Extra Material": []
 }
 ]
 
