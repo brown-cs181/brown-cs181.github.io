@@ -146,7 +146,7 @@ contents: [
   "Date": ["11/26/24"],
   "Topic": ["HMM Applications"],
   "Video": [],
-  "Extra Material": [{"Hannah's Notes": /lectures/hmm_applications.pdf}, {"HMM Slides": /lectures/markov_models_ppt.pdf}, {"HMM Application": /lectures/hmm_learning_prob.pdf}, {"Stanford Textbook": /lectures/HMM_Stanford_textbook.pdf}]
+  "Extra Material": [{"Hannah's Notes": /lectures/hmm_applications.pdf}, {"Slides": /lectures/markov_models_ppt.pdf}, {"More Slides": /lectures/hmm_learning_prob.pdf}, {"Stanford Textbook": /lectures/HMM_Stanford_textbook.pdf}]
 },
 {
   "Date": ["12/3/24"],
