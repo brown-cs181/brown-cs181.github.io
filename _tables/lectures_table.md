@@ -153,6 +153,12 @@ contents: [
   "Topic": ["Genome Assembly"],
   "Video": [],
   "Extra Material": []
+},
+{
+  "Date": ["12/5/24"],
+  "Topic": ["Wrapping Things Up🥹"],
+  "Video": [],
+  "Extra Material": [{"More Slides": /lectures/final_ppt.pdf}, {"Slides": /lectures/final_ppt_2.pdf}]
 }
 ]
 
