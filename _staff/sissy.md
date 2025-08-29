@@ -1,5 +1,5 @@
 ---
-name: Sissy Han (UTA)
+name: Sissy Han (HTA)
 role: staff
 favorite_theme_animal: Brachiosaurus
 photo: sissy.jpg
@@ -9,6 +9,6 @@ speech_bubble: |
   Major: Comp Bio
   Class: 2026
   Hometown: Shrewsbury, MA
-  Fun fact: I'm a yearly-ish visitor of a llama farm!
+  Fun fact: I'm on level 4561 in Candy Crush.
 ---
 <!--  -->
