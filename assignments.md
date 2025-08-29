@@ -2,7 +2,7 @@
 title: Assignments
 windowTitle: ASSIGNMENTS
 layout: default
-icon: sheep.png
+icon: bananas.png
 link_types: []
 links: []
 ---

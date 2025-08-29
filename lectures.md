@@ -2,7 +2,7 @@
 layout: default
 title: Lectures
 windowTitle: LECTURES
-icon: pig.png
+icon: flower.png
 link_types: []
 links: []
 ---

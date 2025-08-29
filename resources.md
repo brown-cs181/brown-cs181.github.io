@@ -2,7 +2,7 @@
 layout: default
 title: Resources
 windowTitle: RESOURCES
-icon: cow.png
+icon: red_shell.png
 link_types: []
 links: []
 ---
