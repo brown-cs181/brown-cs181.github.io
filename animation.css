@@ -52,8 +52,8 @@ html, body {
 }
 
 .animal {
-  width: 200px;
-  height: 70px;
+  width: 100px;
+  height: 100px;
   margin-left: -250px;
   overflow: visible;
   position: absolute;	
@@ -61,7 +61,7 @@ html, body {
 }
 
 .animal2 {
-  width: 200px;
+  width: 70px;
   height: 70px;
   margin-left: -250px;
   overflow: visible;
