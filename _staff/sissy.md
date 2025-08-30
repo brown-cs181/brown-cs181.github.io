@@ -1,6 +1,6 @@
 ---
 name: Sissy Han (HTA)
-role: staff
+role: HTA
 favorite_theme_animal: Brachiosaurus
 photo: sissy.jpg
 throwback_photo: colin_alt.jpg

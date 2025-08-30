@@ -9,27 +9,27 @@ links: []
 
 <!-- # {{ page.title }} -->
 
-<!-- ### Professor and HTA
+<!-- <!-- ### Professor and HTA -->
 
 <div class="uta-container">
   {% assign professors = site.staff | where: 'role', 'Professor' %}
   {% for staffer in professors %}
   {{ staffer }}
-  {% endfor %} -->
-<!-- </div> -->
-<!-- 
-{% assign HTAs = site.staff | where: 'role', 'HTA' %}
-{% if HTAs.size != 0 %} -->
+  {% endfor %}
+</div>
 
-<!-- <div class="uta-container"> -->
-  <!-- {% for staffer in HTAs %}
+{% assign HTAs = site.staff | where: 'role', 'HTA' %}
+{% if HTAs.size != 0 %}
+
+<div class="uta-container">
+  {% for staffer in HTAs %}
   {{ staffer }}
   {% endfor %}
   {% endif %}
 </div>
 
-{% assign STAs = site.staff | where: 'role', 'STA' %}
-{% if STAs.size != 0 %} -->
+<!-- {% assign STAs = site.staff | where: 'role', 'STA' %}
+{% if STAs.size != 0 %} --> -->
 <!-- 
 ### STAs
 

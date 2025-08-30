@@ -241,7 +241,7 @@
       color: rgb(218, 218, 218);
       font-weight: bold;
       font-size: 0.9rem;
-      background-color: #295a4e;
+      background-color: #0e5059;
       border-radius: 0.7rem;
       padding: 0.2rem;
     }
@@ -316,7 +316,7 @@ header {
       color: #fff;
       line-height: 1.2;
       // border: 4px solid #d4d4d4;
-      background: #4b8654;
+      background: #1c7a87;
       display: flex;
       flex-direction: row;
       text-transform: capitalize;
@@ -396,7 +396,7 @@ header {
 .page-content {
   padding: 0 0; 
   flex: 1 0 auto; 
-  background-image: url("{{base}}/assets/images/icons/underwater.png"), linear-gradient(to bottom, #6ca380, #6ca380, #6ca380, #6ca380) ; // change to #000000 once enough lectures
+  background-image: url("{{base}}/assets/images/icons/underwater_2.png"), linear-gradient(to bottom, #6ca380, #6ca380, #6ca380, #6ca380) ; // change to #000000 once enough lectures
   background-size: 100%;
   background-repeat: no-repeat;
   font-family: monospace; 
