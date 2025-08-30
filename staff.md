@@ -66,7 +66,7 @@ links: []
   {% endfor %}
   
   <!-- Third: UTAs -->
-  {% assign UTAs = site.staff | where: 'role', 'UTA' %}
+  {% assign UTAs = site.staff | where: 'role', 'staff' %}
   {% for staffer in UTAs %}
   {{ staffer }}
   {% endfor %}

@@ -3,8 +3,8 @@ cols: ["Homework", "Out", "In", "Support Files"]
 contents: [
   {
     "Homework" : [{"Course Setup Form": "https://docs.google.com/forms/d/e/1FAIpQLSfc2zgSWRQuGHoB1KkNLuLgVSAcCFr4vej97KqOEI8VwoNccQ/viewform?usp=sf_link"}],
-    "Out" : ["9/6/24"],
-    "In" : ["9/13/24"]
+    "Out" : ["9/5/24"],
+    "In" : ["9/12/24"]
    },
    {
     "Homework" : [{"Homework 1: Alignment": /assignments/CS1810_HW1_2024.pdf}],
