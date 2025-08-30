@@ -11,7 +11,7 @@ links: []
 
 <!-- <!-- ### Professor and HTA -->
 
-<div class="uta-container">
+<!-- <div class="uta-container">
   {% assign professors = site.staff | where: 'role', 'Professor' %}
   {% for staffer in professors %}
   {{ staffer }}
@@ -26,7 +26,7 @@ links: []
   {{ staffer }}
   {% endfor %}
   {% endif %}
-</div>
+</div> -->
 
 <!-- {% assign STAs = site.staff | where: 'role', 'STA' %}
 {% if STAs.size != 0 %} --> -->
@@ -40,14 +40,34 @@ links: []
   {% endif %}
 </div> -->
 
-{% assign STAFF = site.staff | where: 'role', 'staff' %}
-{% if STAFF.size != 0 %}
+<!-- {% assign STAFF = site.staff | where: 'role', 'staff' %}
+{% if STAFF.size != 0 %} -->
 
 <!-- ### UTAs -->
 
-<div class="uta-container">
+<!-- <div class="uta-container">
   {% for staffer in STAFF %}
   {{ staffer }}
   {% endfor %}
   {% endif %}
+</div> -->
+
+<div class="uta-container">
+  <!-- First: Professors -->
+  {% assign professors = site.staff | where: 'role', 'Professor' %}
+  {% for staffer in professors %}
+  {{ staffer }}
+  {% endfor %}
+  
+  <!-- Second: HTAs -->
+  {% assign HTAs = site.staff | where: 'role', 'HTA' %}
+  {% for staffer in HTAs %}
+  {{ staffer }}
+  {% endfor %}
+  
+  <!-- Third: UTAs -->
+  {% assign UTAs = site.staff | where: 'role', 'UTA' %}
+  {% for staffer in UTAs %}
+  {{ staffer }}
+  {% endfor %}
 </div>
