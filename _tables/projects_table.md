@@ -3,32 +3,32 @@ cols: ["Project", "Out", "In", "Support Files"]
 contents: [
    {
     "Project" : [{"Project 0: Warmup": /assignments/CS1810_PR0_2024.pdf}],
-    "Out" : ["9/6/24"],
-    "In" : ["9/20/24"],
+    "Out" : ["9/5/25"],
+    "In" : ["9/19/25"],
     "Support Files" : [] #{"files" : /assignments/zipped_files/cs181-warmup-2024.zip}
    },
    {
     "Project" : [{"Project 1: Alignment": /assignments/CS1810_PR1_2024.pdf}],
-    "Out" : ["9/28/24"],
-    "In" : ["10/11/24"],
+    "Out" : ["9/27/25"],
+    "In" : ["10/10/25"],
     "Support Files" : []
    },
    {
     "Project" : [{"Project 2: Pattern Matching": /assignments/CS1810_PR2_2024.pdf}],
-    "Out" : ["10/12/24"],
-    "In" : ["10/25/24"], 
+    "Out" : ["10/11/25"],
+    "In" : ["10/24/25"], 
     "Support Files" : []
    },
    {
-    "Project" : [{"Project 3: Phylogeny": /assignments/CS1810_PR3_2024.pdf}],
-    "Out" : ["11/3/24"],
-    "In" : ["11/18/24"],
+    "Project" : [{"Project 3: Phylogeny": }],
+    "Out" : ["11/2/25"],
+    "In" : ["11/17/25"],
     "Support Files" : [] # {"files" : "/assignments/zipped_files/pr3_phylogeny.zip"}, {"Basic UPGMA" : "/resources/UPGMA.pptx"}, {"Priority Queue UPGMA" : "/resources/UPGMA_PQ.pptx"}
    },
    {
-    "Project" : [{"Project 4: Hidden Markov Models": /assignments/CS1810_PR4_2024.pdf}],
-    "Out" : ["11/19/24"],
-    "In" : ["12/9/24"],
+    "Project" : [{"Project 4: Hidden Markov Models": }],
+    "Out" : ["11/18/25"],
+    "In" : ["12/8/25"],
     "Support Files" : []
    }
    # {

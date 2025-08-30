@@ -3,34 +3,34 @@ cols: ["Homework", "Out", "In", "Support Files"]
 contents: [
   {
     "Homework" : [{"Course Setup Form": "https://docs.google.com/forms/d/e/1FAIpQLSfc2zgSWRQuGHoB1KkNLuLgVSAcCFr4vej97KqOEI8VwoNccQ/viewform?usp=sf_link"}],
-    "Out" : ["9/5/24"],
-    "In" : ["9/12/24"]
+    "Out" : ["9/5/25"],
+    "In" : ["9/12/25"]
    },
    {
     "Homework" : [{"Homework 1: Alignment": /assignments/CS1810_HW1_2024.pdf}],
-    "Out" : ["9/14/24"],
-    "In" : ["9/27/24"]
+    "Out" : ["9/13/25"],
+    "In" : ["9/26/25"]
    },
    {
     "Homework" : [{"Homework 2: Alignment": /assignments/CS1810_HW2_2024.pdf}],
-    "Out" : ["9/28/24"],
-    "In" : ["10/7/24"],
+    "Out" : ["9/27/25"],
+    "In" : ["10/6/25"],
     "Support Files": []
    },
    {
     "Homework" : [{"Homework 3: KMP and DFAs": /assignments/CS1810_HW3_2024.pdf}],
-    "Out" : ["10/12/24"],
-    "In" : ["10/21/24"]
+    "Out" : ["10/11/25"],
+    "In" : ["10/20/25"]
    },
    {
     "Homework" : [{"Homework 4: Suffix Trees and Phylogeny": /assignments/CS1810_HW4_2024.pdf}],
-    "Out" : ["11/3/24"],
-    "In" : ["11/15/24"]
+    "Out" : ["11/2/25"],
+    "In" : ["11/14/25"]
    },
    {
     "Homework" : [{"Homework 5: Hidden Markov Models": /assignments/CS1810_HW5_2024.pdf}],
-    "Out" : ["11/19/24"],
-    "In" : ["12/6/24"]
+    "Out" : ["11/18/25"],
+    "In" : ["12/5/25"]
    },
   ]
 ---
