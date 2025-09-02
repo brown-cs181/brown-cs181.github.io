@@ -7,32 +7,32 @@ link_types: ["QuickLinks"]
 links: [
   {
     "Title" : "Syllabus",
-     "Link" : "/quicklinks/2024_syllabus.pdf",
+     "Link" : "/quicklinks/2025_syllabus.pdf",
      "Type" : "QuickLinks"
   },
   {
     "Title" : "Collaboration Policy",
-    "Link" : "/quicklinks/2024_collab.pdf",
+    "Link" : "/quicklinks/2025_collab.pdf",
     "Type" : "QuickLinks"
   },
   {
     "Title" : "Late Policy",
-    "Link" : "/quicklinks/2024_late_policy.pdf",
+    "Link" : "/quicklinks/2025_late.pdf",
     "Type" : "QuickLinks"
   },
   {
     "Title" : "Gradescope",
-    "Link" : "https://www.gradescope.com/courses/847795",
+    "Link" : "https://www.gradescope.com/courses/1112073",
     "Type" : "QuickLinks"
   },
   {
     "Title" : "EdStem",
-    "Link" : "https://edstem.org/us/courses/65851/discussion/",
+    "Link" : "https://edstem.org/us/courses/85621/discussion/",
     "Type" : "QuickLinks"
   },
   {
     "Title" : "Anonymous Feedback Form",
-    "Link" : "https://docs.google.com/forms/d/e/1FAIpQLSeV7rgkgvoz1bRz2FN1ERo32edqCKFghzC_GMNKdUfF1GjdWg/viewform?usp=sf_link",
+    "Link" : "https://docs.google.com/forms/d/e/1FAIpQLSdXJrb8sOTaV86fhtYuBuClpRvLGEcMIp5U3-tIbO1mx1ISWQ/viewform?usp=header",
     "Type" : "QuickLinks"
   },
 ]
