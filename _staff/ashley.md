@@ -2,8 +2,8 @@
 name: Ashley Xu (UTA)
 role: staff
 favorite_theme_animal: Iguanodon
-photo: hannah.jpg
-throwback_photo: hannah_alt.jpg
+photo: ashley.jpg
+throwback_photo: ashley.jpg
 speech_bubble: |
   Pronouns: she/her 
   Major: Comp Bio 
