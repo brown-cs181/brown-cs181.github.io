@@ -2,7 +2,7 @@
 cols: ["Project", "Out", "In", "Support Files"]
 contents: [
    {
-    "Project" : ["Project 0: Warmup"],
+    "Project" : [{"Project 0: Warmup": "/assignments/CS1810_PR0_2025.PDF"}],
     "Out" : ["9/5/25"],
     "In" : ["9/19/25"],
     "Support Files" : [] #{"files" : /assignments/zipped_files/cs181-warmup-2024.zip}
