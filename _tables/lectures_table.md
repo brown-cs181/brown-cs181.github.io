@@ -14,6 +14,7 @@ contents: [
 #   "Extra Material": [{"slides":"/lectures/IntroToAlignment.pdf"}]
 # }
 ]
+---
 
 # {
 #   "Date": ["9/12/24"],
@@ -162,7 +163,7 @@ contents: [
 #   "Extra Material": [{"More Slides": /lectures/final_ppt.pdf}, {"Slides": /lectures/final_ppt_2.pdf}]
 # }
 
-# <!-- ---
-# //"Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9aa2bce4-5706-420f-9daa-af090116a740"}],
+
+<!-- # //"Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9aa2bce4-5706-420f-9daa-af090116a740"}],
 # //"Extra Material": [{"slides":"/lectures/Firstlecture2022.pdf"}] -->
 
