@@ -6,13 +6,13 @@ contents: [
     "Topic" : ["Welcome to CS 181!"],
     "Video" : [{"video" :"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=37d8bc8b-a3db-4c3f-b4d1-b3480153abbc"}],
     "Extra Material" : [{"slides" :"/lectures/Firstlecture2022.pdf"}]
+  },
+  {
+    "Date": ["9/10/24"],
+    "Topic": ["Intro to Alignment"],
+    "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4b9197dd-c6a1-4f49-b423-b3480153ac1b"}],
+    "Extra Material": [{"slides":"/lectures/IntroToAlignment.pdf"}]
   }
-# {
-#   "Date": ["9/10/24"],
-#   "Topic": ["Intro to Alignment"],
-#   "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4b9197dd-c6a1-4f49-b423-b3480153ac1b"}],
-#   "Extra Material": [{"slides":"/lectures/IntroToAlignment.pdf"}]
-# }
 ]
 ---
 
