@@ -15,8 +15,8 @@ The link to the ongoing class notes can be found [here](lectures/classnotes.pdf)
 
 ### Note Sign-up
 
-The link to sign up for taking class notes is [here](https://docs.google.com/spreadsheets/d/1Y-ECCf3KheQ8UhE8u5ZMDCSTF4xKDxb58I3g2Wu5D80/edit?usp=sharing). This is required for participation credit. 
-The link to submit your notes is [here](https://docs.google.com/forms/d/e/1FAIpQLSeuTrpW1DPHniEBbE8To1mSrWMGNMxe8n5JOCPx1xOgBWgeGQ/viewform). 
+The link to sign up for taking class notes is [here](https://docs.google.com/spreadsheets/d/1XELFHlhzLi4E_1wBOPJnKdNbneSCatxKa3KUoksGTJo/edit?usp=drive_link). This is required for participation credit. 
+The link to submit your notes is [here](https://docs.google.com/forms/d/e/1FAIpQLSfLhT4VNthhYV1mBU7S2Gnz_UCJcae6LLF4twyaoPg_F0jFOQ/viewform?usp=header). 
 
 ### Videos
 
