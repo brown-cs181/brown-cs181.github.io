@@ -12,6 +12,12 @@ contents: [
     "Topic": ["Intro to Alignment"],
     "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4b9197dd-c6a1-4f49-b423-b3480153ac1b"}],
     "Extra Material": [{"slides":"/lectures/IntroToAlignment.pdf"}]
+  },
+  {
+    "Date": ["9/12/24"],
+    "Topic": ["Global Alignment + Scoring Schemes"],
+    "Video": [{"video": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=13fe31ec-e350-481b-aaac-b3480153ac35"}],
+    "Extra Material": [{"More Notes":"/lectures/Hannah’s Notes 2.pdf"}]
   }
 ]
 ---
