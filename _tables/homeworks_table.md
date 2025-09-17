@@ -14,7 +14,8 @@ contents: [
    {
     "Homework" : [{"Homework 1: Alignment": "/assignments/CS1810_HW1_2025.pdf"}],
     "Out" : ["9/15/25"],
-    "In" : ["9/26/25"]
+    "In" : ["9/26/25"],
+    "Support Files": [{"latex template: "/assignments/hw1_template.tex"}]
    },
    {
     "Homework" : ["Homework 2: Alignment"],
