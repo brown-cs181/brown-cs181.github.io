@@ -8,16 +8,28 @@ contents: [
     "Extra Material" : [{"slides" :"/lectures/Firstlecture2022.pdf"}]
   },
   {
-    "Date": ["9/10/24"],
+    "Date": ["9/9/25"],
     "Topic": ["Intro to Alignment"],
     "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4b9197dd-c6a1-4f49-b423-b3480153ac1b"}],
     "Extra Material": [{"slides":"/lectures/IntroToAlignment.pdf"}]
   },
   {
-    "Date": ["9/12/24"],
+    "Date": ["9/11/25"],
     "Topic": ["Global Alignment + Scoring Schemes"],
     "Video": [{"video": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=13fe31ec-e350-481b-aaac-b3480153ac35"}],
-    "Extra Material": [{"More Notes":"/lectures/Hannah’s Notes 2.pdf"}]
+    "Extra Material": [{"More Notes":"/lectures/9:14_Alignment.pdf"}]
+  },
+  {
+    "Date": ["9/16/25"],
+    "Topic": ["BLOSUM Matrices"],
+    "Video": [{"video": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6db006d4-5f6b-4799-81a6-b3480153ac54"}],
+    "Extra Material": ["More Notes":"/lectures/Hannah’s Notes 2.pdf"]
+  },
+  {
+    "Date": ["9/18/25"],
+    "Topic": ["Local Alignment"],
+    "Video": [],
+    "Extra Material": []
   }
 ]
 ---
