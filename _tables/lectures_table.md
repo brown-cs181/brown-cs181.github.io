@@ -23,7 +23,7 @@ contents: [
     "Date": ["9/16/25"],
     "Topic": ["BLOSUM Matrices"],
     "Video": [{"video": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6db006d4-5f6b-4799-81a6-b3480153ac54"}],
-    "Extra Material": ["More Notes":"/lectures/Hannah’s Notes 2.pdf"]
+    "Extra Material": [{"Ashley's Notes":"/lectures/0916_ashley_notes.pdf"}, {"More Notes":"/lectures/Hannah’s Notes 2.pdf"}]
   },
   {
     "Date": ["9/18/25"],
