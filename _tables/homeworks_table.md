@@ -6,7 +6,7 @@ contents: [
   #   "Out" : ["9/5/25"],
   #   "In" : ["9/12/25"]
   #  },
-    {
+  {
     "Homework" : [{"Course Setup Form": https://docs.google.com/forms/d/e/1FAIpQLScykvaIYwMJCQR4CnYSpQul-KWUFeAuprOhPe4oIUzsCrDMDw/viewform?usp=header}],
     "Out" : ["9/5/25"],
     "In" : ["9/12/25"]
