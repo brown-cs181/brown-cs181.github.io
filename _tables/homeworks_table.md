@@ -6,7 +6,7 @@ contents: [
   #   "Out" : ["9/5/25"],
   #   "In" : ["9/12/25"]
   #  },
-  {
+   {
     "Homework" : [{"Course Setup Form": https://docs.google.com/forms/d/e/1FAIpQLScykvaIYwMJCQR4CnYSpQul-KWUFeAuprOhPe4oIUzsCrDMDw/viewform?usp=header}],
     "Out" : ["9/5/25"],
     "In" : ["9/12/25"]
@@ -15,7 +15,7 @@ contents: [
     "Homework" : [{"Homework 1: Alignment": "/assignments/CS1810_HW1_2025.pdf"}],
     "Out" : ["9/15/25"],
     "In" : ["9/26/25"],
-    "Support Files": [{"latex template: "/assignments/hw1_template.tex"}]
+    "Support Files": [{"latex template": "/assignments/hw1_template.tex"}]
    },
    {
     "Homework" : ["Homework 2: Alignment"],
