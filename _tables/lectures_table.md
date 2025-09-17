@@ -17,7 +17,7 @@ contents: [
     "Date": ["9/11/25"],
     "Topic": ["Global Alignment + Scoring Schemes"],
     "Video": [{"video": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=13fe31ec-e350-481b-aaac-b3480153ac35"}],
-    "Extra Material": [{"More Notes":"/lectures/9:14_Alignment.pdf"}]
+    "Extra Material": [{"More Notes":"/lectures/9_14_Alignment.pdf"}]
   },
   {
     "Date": ["9/16/25"],
