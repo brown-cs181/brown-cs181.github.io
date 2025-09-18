@@ -28,6 +28,12 @@ contents: [
   {
     "Date": ["9/18/25"],
     "Topic": ["Local Alignment"],
+    "Video": [{"video": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=384222cc-d6e1-473d-bf33-b3480153ac79"}],
+    "Extra Material": []
+  },
+  {
+    "Date": ["9/23/25"],
+    "Topic": ["More Smith-Waterman"],
     "Video": [],
     "Extra Material": []
   }
