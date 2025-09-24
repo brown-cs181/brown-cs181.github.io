@@ -4,8 +4,8 @@ contents: [
   {
     "Date" : ["9/4/25"],
     "Topic" : ["Welcome to CS 181!"],
-    "Video" : [{"video" :"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=37d8bc8b-a3db-4c3f-b4d1-b3480153abbc"}],
-    "Extra Material" : [{"slides" :"/lectures/Firstlecture2022.pdf"}]
+    "Video" : [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=37d8bc8b-a3db-4c3f-b4d1-b3480153abbc"}],
+    "Extra Material" : [{"slides":"/lectures/Firstlecture2022.pdf"}]
   },
   {
     "Date": ["9/9/25"],
@@ -16,24 +16,30 @@ contents: [
   {
     "Date": ["9/11/25"],
     "Topic": ["Global Alignment + Scoring Schemes"],
-    "Video": [{"video": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=13fe31ec-e350-481b-aaac-b3480153ac35"}],
+    "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=13fe31ec-e350-481b-aaac-b3480153ac35"}],
     "Extra Material": [{"More Notes":"/lectures/9_14_Alignment.pdf"}]
   },
   {
     "Date": ["9/16/25"],
     "Topic": ["BLOSUM Matrices"],
-    "Video": [{"video": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6db006d4-5f6b-4799-81a6-b3480153ac54"}],
+    "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6db006d4-5f6b-4799-81a6-b3480153ac54"}],
     "Extra Material": [{"Ashley's Notes":"/lectures/0916_ashley_notes.pdf"}, {"More Notes":"/lectures/Hannah’s Notes 2.pdf"}]
   },
   {
     "Date": ["9/18/25"],
     "Topic": ["Local Alignment"],
-    "Video": [{"video": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=384222cc-d6e1-473d-bf33-b3480153ac79"}],
+    "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=384222cc-d6e1-473d-bf33-b3480153ac79"}],
     "Extra Material": []
   },
   {
     "Date": ["9/23/25"],
-    "Topic": ["More Smith-Waterman"],
+    "Topic": ["Affine Gap Alignment"],
+    "Video": [{"video": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8c8033d0-873c-41c4-b083-b3480153ac9a"}],
+    "Extra Material": ["slides":"/lectures/AffineGapAlignment.pdf"]
+  },
+  {
+    "Date": ["9/25/25"],
+    "Topic": [],
     "Video": [],
     "Extra Material": []
   }
