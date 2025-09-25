@@ -29,13 +29,13 @@ contents: [
     "Date": ["9/18/25"],
     "Topic": ["Local Alignment"],
     "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=384222cc-d6e1-473d-bf33-b3480153ac79"}],
-    "Extra Material": []
+    "Extra Material": [{"Khoi's Notes":"/lectures/khoi_local.pdf"}]
   },
   {
     "Date": ["9/23/25"],
     "Topic": ["Affine Gap Alignment"],
     "Video": [{"video": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8c8033d0-873c-41c4-b083-b3480153ac9a"}],
-    "Extra Material": ["slides":"/lectures/AffineGapAlignment.pdf"]
+    "Extra Material": [{"slides":"/lectures/AffineGapAlignment.pdf"},{"More Notes:":"/lectures/affine_notes.pdf"}]
   },
   {
     "Date": ["9/25/25"],
