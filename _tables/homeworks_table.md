@@ -18,7 +18,7 @@ contents: [
     "Support Files": [{"latex template": "/assignments/hw1_template.tex"}]
    },
    {
-    "Homework" : ["Homework 2: Alignment"],
+    "Homework" : [{"Homework 2: Alignment": "/assignments/CS1810_HW2_2025.pdf"}],
     "Out" : ["9/27/25"],
     "In" : ["10/6/25"],
     "Support Files": []
