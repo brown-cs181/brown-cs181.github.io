@@ -35,10 +35,16 @@ contents: [
     "Date": ["9/23/25"],
     "Topic": ["Affine Gap Alignment"],
     "Video": [{"video": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8c8033d0-873c-41c4-b083-b3480153ac9a"}],
-    "Extra Material": [{"slides":"/lectures/AffineGapAlignment.pdf"},{"More Notes:":"/lectures/affine_notes.pdf"}]
+    "Extra Material": [{"slides":"/lectures/AffineGapAlignment.pdf"},{"More Notes":"/lectures/affine_notes.pdf"}]
   },
   {
     "Date": ["9/25/25"],
+    "Topic": ["Alignment + Graph Theory"],
+    "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5183f173-30a6-47be-a244-b3480153acb6"}],
+    "Extra Material": []
+  },
+  {
+    "Date": ["9/30/25"],
     "Topic": [],
     "Video": [],
     "Extra Material": []
