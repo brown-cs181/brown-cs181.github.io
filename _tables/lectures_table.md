@@ -45,6 +45,18 @@ contents: [
   },
   {
     "Date": ["9/30/25"],
+    "Topic": ["Dijkstra's Algorithm"],
+    "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=37b02d0c-a75a-41d7-acf3-b3480153acd3"}],
+    "Extra Material": []
+  },
+  {
+    "Date": ["10/2/25"],
+    "Topic": ["Topological Sorting"],
+    "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=48f18802-41ca-4449-9f43-b3480153ace8"}],
+    "Extra Material": []
+  },
+  {
+    "Date": ["10/7/25"],
     "Topic": [],
     "Video": [],
     "Extra Material": []
