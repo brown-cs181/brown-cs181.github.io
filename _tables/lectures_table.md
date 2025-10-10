@@ -47,7 +47,7 @@ contents: [
     "Date": ["9/30/25"],
     "Topic": ["Dijkstra's Algorithm"],
     "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=37b02d0c-a75a-41d7-acf3-b3480153acd3"}],
-    "Extra Material": []
+    "Extra Material": [{"Ashley's Notes":"/lectures/0930_ashley_notes.pdf"}]
   },
   {
     "Date": ["10/2/25"],
@@ -57,6 +57,18 @@ contents: [
   },
   {
     "Date": ["10/7/25"],
+    "Topic": ["Languages + DFAs"],
+    "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=054e79a6-9cd3-4230-8a50-b3480153ad03"}],
+    "Extra Material": [{"DFA slides":"/lectures/DFA.pdf"},{"NFA slides":"/lectures/NFA.pdf"}]
+  },
+  {
+    "Date": ["10/9/25"],
+    "Topic": ["Regex + Intro to KMP"],
+    "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6a663aad-5e94-4133-a8de-b3480153ad2d"}],
+    "Extra Material": [{"Regex slides":"/lectures/Regular_Expressions.pdf"}]
+  },
+  {
+    "Date": ["10/14/25"],
     "Topic": [],
     "Video": [],
     "Extra Material": []
