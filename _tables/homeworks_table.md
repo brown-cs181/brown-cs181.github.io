@@ -24,9 +24,9 @@ contents: [
     "Support Files": []
    },
    {
-    "Homework" : ["Homework 3: KMP and DFAs"],
-    "Out" : ["10/11/25"],
-    "In" : ["10/20/25"]
+    "Homework" : [{"Homework 3: KMP and DFAs": "/assignments/CS1810_HW3_2025.pdf"}],
+    "Out" : ["10/14/25"],
+    "In" : ["10/24/25"]
    },
    {
     "Homework" : ["Homework 4: Suffix Trees and Phylogeny"],
