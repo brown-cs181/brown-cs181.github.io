@@ -69,6 +69,24 @@ contents: [
   },
   {
     "Date": ["10/14/25"],
+    "Topic": ["KMP Algorithm"],
+    "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d39de2ba-f75a-40f2-989e-b3480153ad51"}],
+    "Extra Material": []
+  },
+  {
+    "Date": ["10/16/25"],
+    "Topic": ["Failure Function"],
+    "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=580ffd95-84a1-4ad6-832e-b3480153ad6e"}],
+    "Extra Material": []
+  },
+  {
+    "Date": ["10/21/25"],
+    "Topic": [],
+    "Video": [],
+    "Extra Material": []
+  },
+  {
+    "Date": ["10/23/25"],
     "Topic": [],
     "Video": [],
     "Extra Material": []
