@@ -77,7 +77,7 @@ contents: [
     "Date": ["10/16/25"],
     "Topic": ["Failure Function"],
     "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=580ffd95-84a1-4ad6-832e-b3480153ad6e"}],
-    "Extra Material": []
+    "Extra Material": [{"Khoi's Notes":"/lectures/khoi_kmp_failure-compressed.pdf"}]
   },
   {
     "Date": ["10/21/25"],
