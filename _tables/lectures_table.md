@@ -93,9 +93,9 @@ contents: [
   },
   {
     "Date": ["10/28/25"],
-    "Topic": [],
-    "Video": [],
-    "Extra Material": []
+    "Topic": ["BW Transform + Intro to Phylogenetic Trees"],
+    "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0db8095d-2e4b-4e76-82bb-b3480153ade8"}],
+    "Extra Material": [{"Ashley's Notes":"/lectures/1028_ashley_notes.pdf"}]
   },
   {
     "Date": ["10/30/25"],
