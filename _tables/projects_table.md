@@ -20,7 +20,7 @@ contents: [
     "Support Files" : []
    },
    {
-    "Project" : ["Project 3: Phylogeny"],
+    "Project" : [{"Project 3: Phylogeny": "/assignments/CS1810_PR3_2025.pdf"}],
     "Out" : ["11/2/25"],
     "In" : ["11/17/25"],
     "Support Files" : [] # {"files" : "/assignments/zipped_files/pr3_phylogeny.zip"}, {"Basic UPGMA" : "/resources/UPGMA.pptx"}, {"Priority Queue UPGMA" : "/resources/UPGMA_PQ.pptx"}

@@ -29,8 +29,8 @@ contents: [
     "In" : ["10/24/25"]
    },
    {
-    "Homework" : ["Homework 4: Suffix Trees and Phylogeny"],
-    "Out" : ["11/2/25"],
+    "Homework" : [{"Homework 4: Suffix Trees and Phylogeny": "/assignments/CS1810_HW4_2025.pdf"}],
+    "Out" : ["11/3/25"],
     "In" : ["11/14/25"]
    },
    {
