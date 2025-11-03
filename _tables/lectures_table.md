@@ -69,7 +69,37 @@ contents: [
   },
   {
     "Date": ["10/14/25"],
-    "Topic": [],
+    "Topic": ["KMP Algorithm"],
+    "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d39de2ba-f75a-40f2-989e-b3480153ad51"}],
+    "Extra Material": [{"Ashley's Notes":"/lectures/1014_ashley_notes.pdf"}]
+  },
+  {
+    "Date": ["10/16/25"],
+    "Topic": ["Failure Function"],
+    "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=580ffd95-84a1-4ad6-832e-b3480153ad6e"}],
+    "Extra Material": [{"Khoi's Notes":"/lectures/khoi_kmp_failure-compressed.pdf"}]
+  },
+  {
+    "Date": ["10/21/25"],
+    "Topic": ["More KMP + DFA Algorithm"],
+    "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2870bd59-9dcf-40d5-b81c-b3480153ada4"}],
+    "Extra Material": [{"KMP slides":"/lectures/KMPAlgorithm.pdf"},{"Failure Function slides":"/lectures/FailureFunctionAlgorithm.pdf"}]
+  },
+  {
+    "Date": ["10/23/25"],
+    "Topic": ["Suffix Trees + Intro to BW Transform"],
+    "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=766c4b8e-c0e4-4176-9828-b3480153adc9"}],
+    "Extra Material": [{"Burrows-Wheeler slides":"/lectures/BW_Results_Algorithm.pptx"}]
+  },
+  {
+    "Date": ["10/28/25"],
+    "Topic": ["BW Transform + Intro to Phylogenetic Trees"],
+    "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0db8095d-2e4b-4e76-82bb-b3480153ade8"}],
+    "Extra Material": [{"Ashley's Notes":"/lectures/1028_ashley_notes.pdf"}]
+  },
+  {
+    "Date": ["10/30/25"],
+    "Topic": ["Midterm!"],
     "Video": [],
     "Extra Material": []
   }
