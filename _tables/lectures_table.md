@@ -113,13 +113,13 @@ contents: [
     "Date": ["11/6/25"],
     "Topic": ["UPGMA Algorithm"],
     "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f12ea3bf-e551-4332-8449-b3480153ae3b"}],
-    "Extra Material": []
+    "Extra Material": [{"Phylogeny Slides":"/lectures/Phylogeny.pdf"}]
   },
   {
     "Date": ["11/11/25"],
-    "Topic": [""],
-    "Video": [],
-    "Extra Material": []
+    "Topic": ["Neighbor-Joining Algorithm"],
+    "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=81d7411c-a877-4369-ba9e-b3480153ae54"}],
+    "Extra Material": [{"Phylogeny Slides":"/lectures/Phylogeny.pdf"}]
   },
   {
     "Date": ["11/13/25"],
