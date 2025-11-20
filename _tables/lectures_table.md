@@ -102,6 +102,30 @@ contents: [
     "Topic": ["Midterm!"],
     "Video": [],
     "Extra Material": []
+  },
+  {
+    "Date": ["11/4/25"],
+    "Topic": ["More Phylogenetic Trees + Intro to UPGMA"],
+    "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0129c7c4-e7ca-49cf-ae11-b3480153ae1f"}],
+    "Extra Material": []
+  },
+  {
+    "Date": ["11/6/25"],
+    "Topic": ["UPGMA Algorithm"],
+    "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f12ea3bf-e551-4332-8449-b3480153ae3b"}],
+    "Extra Material": [{"Phylogeny Slides":"/lectures/Phylogeny.pdf"}]
+  },
+  {
+    "Date": ["11/11/25"],
+    "Topic": ["Neighbor-Joining Algorithm"],
+    "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=81d7411c-a877-4369-ba9e-b3480153ae54"}],
+    "Extra Material": [{"Ashley's Notes":"/lectures/1111_ashley_notes.pdf"}]
+  },
+  {
+    "Date": ["11/13/25"],
+    "Topic": [""],
+    "Video": [],
+    "Extra Material": []
   }
 ]
 ---
