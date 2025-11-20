@@ -26,7 +26,7 @@ contents: [
     "Support Files" : [] # {"files" : "/assignments/zipped_files/pr3_phylogeny.zip"}, {"Basic UPGMA" : "/resources/UPGMA.pptx"}, {"Priority Queue UPGMA" : "/resources/UPGMA_PQ.pptx"}
    },
    {
-    "Project" : ["Project 4: Hidden Markov Models"],
+    "Project" : [{"Project 4: Hidden Markov Models": "/assignments/CS1810_PR4_2025.pdf"}],
     "Out" : ["11/18/25"],
     "In" : ["12/8/25"],
     "Support Files" : []
