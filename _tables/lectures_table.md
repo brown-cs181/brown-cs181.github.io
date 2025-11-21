@@ -131,13 +131,13 @@ contents: [
     "Date": ["11/18/25"],
     "Topic": ["Intro to HMMs"],
     "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c78fcd24-79b5-483a-857a-b3480153ae86"}],
-    "Extra Material": []
+    "Extra Material": [{"Sorin's HMM Notes":"/lectures/sorins_notes.pdf"},{"Markov Model Slides":"/lectures/markov_models_ppt.pdf"}]
   },
   {
     "Date": ["11/20/25"],
-    "Topic": [],
-    "Video": [],
-    "Extra Material": []
+    "Topic": [HMMs Continued],
+    "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1f3022bf-d3ab-4d28-9134-b3480153ae9d"}],
+    "Extra Material": [{"HMM Slides":"/lectures/hmm_learning_prob.pdf"}]
   }
 ]
 ---
