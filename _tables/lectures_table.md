@@ -123,7 +123,19 @@ contents: [
   },
   {
     "Date": ["11/13/25"],
-    "Topic": [""],
+    "Topic": ["Parsimony + More Phylogeny"],
+    "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b6cdce10-98b1-47c7-b104-b3480153ae6b"}],
+    "Extra Material": []
+  },
+  {
+    "Date": ["11/18/25"],
+    "Topic": ["Intro to HMMs"],
+    "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c78fcd24-79b5-483a-857a-b3480153ae86"}],
+    "Extra Material": []
+  },
+  {
+    "Date": ["11/20/25"],
+    "Topic": [],
     "Video": [],
     "Extra Material": []
   }
