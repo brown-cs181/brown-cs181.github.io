@@ -135,9 +135,27 @@ contents: [
   },
   {
     "Date": ["11/20/25"],
-    "Topic": [HMMs Continued],
+    "Topic": ["HMMs Continued"],
     "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1f3022bf-d3ab-4d28-9134-b3480153ae9d"}],
     "Extra Material": [{"HMM Slides":"/lectures/hmm_learning_prob.pdf"}]
+  },
+  {
+    "Date": ["11/25/25"],
+    "Topic": ["HMM Learning Problem + CpG Islands"],
+    "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c5262677-d474-4ddd-b446-b3480153aeb3"}],
+    "Extra Material": []
+  },
+  {
+    "Date": ["12/2/25"],
+    "Topic": ["HMM Applications"],
+    "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cfb3346d-4f3e-498e-918b-b3480153aee8"}],
+    "Extra Material": []
+  },
+  {
+    "Date": ["12/4/25"],
+    "Topic": [],
+    "Video": [],
+    "Extra Material": []
   }
 ]
 ---
