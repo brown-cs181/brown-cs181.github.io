@@ -143,7 +143,7 @@ contents: [
     "Date": ["11/25/25"],
     "Topic": ["HMM Learning Problem + CpG Islands"],
     "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c5262677-d474-4ddd-b446-b3480153aeb3"}],
-    "Extra Material": []
+    "Extra Material": [{"HMM Slides":"/lectures/hmm_learning_prob.pdf},{"Ashley's Notes":"/lectures/1125_ashley_notes.pdf"}]
   },
   {
     "Date": ["12/2/25"],
