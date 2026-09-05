@@ -2,7 +2,7 @@
 layout: default
 title: Lectures
 windowTitle: LECTURES
-icon: flower.png
+icon: oshawott.png
 link_types: []
 links: []
 ---

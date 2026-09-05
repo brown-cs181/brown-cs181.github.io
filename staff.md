@@ -2,7 +2,7 @@
 layout: default
 title: Staff
 windowTitle: STAFF
-icon: star.png
+icon: caterpie.png
 link_types: []
 links: []
 ---
