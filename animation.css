@@ -26,8 +26,9 @@ html, body {
 
 @keyframes swim {
   0% { left: -100px; }   /* Start offscreen on the left */
-  70% { left: calc(100vw + 200px); }  /* Move to the right edge */
-  100% { left: calc(100vw + 200px); } /* Stay at the right edge */
+  69.99% { left: calc(100vw + 150px); visibility: visible; }
+  70% { left: calc(100vw + 150px); visibility: hidden; } /* Hide when the right edge is reached */
+  100% { left: calc(100vw + 150px); visibility: hidden; }
 }
 
 

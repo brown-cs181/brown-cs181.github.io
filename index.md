@@ -7,17 +7,17 @@ link_types: ["QuickLinks"]
 links: [
   {
     "Title" : "Syllabus",
-     "Link" : "/quicklinks/2025_syllabus.pdf",
+    "Link" : "/quicklinks/2026_syllabus.pdf",
      "Type" : "QuickLinks"
   },
   {
     "Title" : "Collaboration Policy",
-    "Link" : "/quicklinks/2025_collab.pdf",
+    "Link" : "/quicklinks/2026_collab.pdf",
     "Type" : "QuickLinks"
   },
   {
     "Title" : "Late Policy",
-    "Link" : "/quicklinks/2025_late.pdf",
+    "Link" : "/quicklinks/2026_late.pdf",
     "Type" : "QuickLinks"
   },
   {
@@ -54,7 +54,7 @@ Each chapter is devoted to a class of basic computational problems related to th
 If you're enjoying the class, consider taking CSCI 1820/2820, *Algorithmic Foundations of Computational Biology*, in Spring 2026! 
 <!-- [Here](resources/182oldSyllabus.pdf) is an old syllabus from the course (2020 edition). -->
 
-<i> Historical note: CS1810 was first taught at Brown 24 years ago by Professor Franco Preparata (i.e. before the completion of the Human Genome Project). This year's offering is the 25th incarnation of this foundational course in computational biology. See the Resources page for a biology primer written by Prof. Preparata. </i>
+<i> Historical note: CS1810 was first taught at Brown 25 years ago by Professor Franco Preparata (i.e. before the completion of the Human Genome Project). This year's offering is the 26th incarnation of this foundational course in computational biology. See the Resources page for a biology primer written by Prof. Preparata. </i>
 
 
 ### FAQ
