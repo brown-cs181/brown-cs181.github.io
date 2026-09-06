@@ -8,35 +8,35 @@ contents: [
   #  },
    {
     "Homework" : ["Course Setup Form"],
-    "Out" : ["9/5/25"],
-    "In" : ["9/12/25"]
+    "Out" : ["9/11/26"],
+    "In" : ["9/18/26"]
    },
    {
     "Homework" : ["Homework 1: Alignment"],
-    "Out" : ["9/15/25"],
-    "In" : ["9/26/25"],
-    "Support Files": ["latex template"]
+    "Out" : ["9/21/26"],
+    "In" : ["10/02/26"],
+    "Support Files": []
    },
    {
     "Homework" : ["Homework 2: Alignment"],
-    "Out" : ["9/27/25"],
-    "In" : ["10/6/25"],
+    "Out" : ["10/03/26"],
+    "In" : ["10/12/26"],
     "Support Files": []
    },
    {
     "Homework" : ["Homework 3: KMP and DFAs"],
-    "Out" : ["10/14/25"],
-    "In" : ["10/24/25"]
+    "Out" : ["10/20/26"],
+    "In" : ["10/30/26"]
    },
    {
     "Homework" : ["Homework 4: Suffix Trees and Phylogeny"],
-    "Out" : ["11/3/25"],
-    "In" : ["11/14/25"]
+    "Out" : ["11/09/26"],
+    "In" : ["11/20/26"]
    },
    {
     "Homework" : ["Homework 5: Hidden Markov Models"],
-    "Out" : ["11/18/25"],
-    "In" : ["12/5/25"]
+    "Out" : ["11/24/26"],
+    "In" : ["12/11/26"]
    },
   ]
 ---
