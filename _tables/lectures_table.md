@@ -1,6 +1,10 @@
 ---
 cols: ["Date", "Topic", "Video", "Extra Material"]
-contents: [
+contents: []
+---
+
+<!-- Previous lecture entries are retained below; source materials remain available. -->
+<!--
   {
     "Date" : ["9/4/25"],
     "Topic" : ["Welcome to CS 181!"],
@@ -158,6 +162,7 @@ contents: [
     "Extra Material": []
   }
 ]
+-->
 ---
 
 # {

@@ -1,5 +1,5 @@
 ---
-name: Khoi Le (UTA)
+name: Khoi Le (HTA)
 role: staff
 favorite_theme_animal: Stegosaurus
 photo: khoi.jpg

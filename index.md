@@ -22,17 +22,17 @@ links: [
   },
   {
     "Title" : "Gradescope",
-    "Link" : "https://www.gradescope.com/courses/1112073",
+    "Link" : "https://www.gradescope.com/courses/1378190",
     "Type" : "QuickLinks"
   },
   {
     "Title" : "EdStem",
-    "Link" : "https://edstem.org/us/courses/85621/discussion/",
+    "Link" : "https://edstem.org/us/courses/104759/discussion",
     "Type" : "QuickLinks"
   },
   {
     "Title" : "Anonymous Feedback Form",
-    "Link" : "https://docs.google.com/forms/d/e/1FAIpQLSdXJrb8sOTaV86fhtYuBuClpRvLGEcMIp5U3-tIbO1mx1ISWQ/viewform?usp=header",
+    "Link" : "https://forms.gle/DgC9AUT5adaaCPpX9",
     "Type" : "QuickLinks"
   },
 ]
