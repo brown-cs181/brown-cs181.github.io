@@ -396,8 +396,10 @@ header {
 .page-content {
   padding: 0 0; 
   flex: 1 0 auto; 
-  background-image: url("{{base}}/assets/images/icons/underwater_2.png"), linear-gradient(to bottom, #f2cb6d, #f2cb6d, #f2cb6d, #f2cb6d) ; // change to #000000 once enough lectures
-  background-size: 100%;
+  background-image: url("{{base}}/assets/images/icons/pokemon-background.jpg");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
   background-repeat: no-repeat;
   font-family: monospace; 
   min-height: 800px;

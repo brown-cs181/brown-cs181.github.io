@@ -9,5 +9,5 @@ speech_bubble: |
   Major: Comp Bio 
   Class: 2027
   Hometown: Plymouth, MN
-  Fun fact: Favorite Mario Kart power up is Bullet Bill
+  Fun fact: Is into chinese calligraphy
 ---
