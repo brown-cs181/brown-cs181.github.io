@@ -15,8 +15,8 @@ The link to the ongoing class notes can be found [here](lectures/classnotes.pdf)
 
 ### Note Sign-up
 
-The link to sign up for taking class notes is [here](https://docs.google.com/spreadsheets/d/1XELFHlhzLi4E_1wBOPJnKdNbneSCatxKa3KUoksGTJo/edit?usp=drive_link). This is required for participation credit. 
-The link to submit your notes is [here](https://docs.google.com/forms/d/e/1FAIpQLSfLhT4VNthhYV1mBU7S2Gnz_UCJcae6LLF4twyaoPg_F0jFOQ/viewform?usp=header). 
+The link to sign up for taking class notes is [here](https://docs.google.com/spreadsheets/d/1wUzDNd6uF5NQzxTxGCxjtl5eQcUDAXRgc6JOrfNNCs0/edit?usp=sharing). This is required for participation credit.
+Please submit your notes by emailing them as a PDF to cs181tas@cs.brown.edu
 
 ### Videos
 
