@@ -3,7 +3,7 @@ cols: ["Project", "Out", "In", "Support Files"]
 contents: [
    {
    "Project" : ["Project 0: Warmup"],
-    "Out" : ["9/11/26"],
+    "Out" : ["9/1４/26"],
     "In" : ["9/25/26"],
     "Support Files" : [] #{"files" : /assignments/zipped_files/cs181-warmup-2024.zip}
    },
