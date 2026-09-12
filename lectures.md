@@ -15,7 +15,7 @@ The link to the ongoing class notes can be found [here](lectures/classnotes.pdf)
 
 ### Note Sign-up
 
-The link to sign up for taking class notes is [here](https://docs.google.com/spreadsheets/d/1wUzDNd6uF5NQzxTxGCxjtl5eQcUDAXRgc6JOrfNNCs0/edit?usp=sharing). This is required for participation credit.
+The link to sign up for taking class notes is [here](https://forms.gle/7zDTsoPxJzCqRVYG6). This is required for participation credit.
 Please submit your notes by emailing them as a PDF to both khoi_c_le@brown.edu and kelley_tu@brown.edu.
 
 ### Videos

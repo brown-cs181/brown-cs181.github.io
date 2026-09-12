@@ -7,7 +7,7 @@ contents: [
   #   "In" : ["9/12/25"]
   #  },
    {
-    "Homework" : ["Course Setup Form"],
+    "Homework" : [{"Course Setup Form": "https://forms.gle/7zDTsoPxJzCqRVYG6"}],
     "Out" : ["9/11/26"],
     "In" : ["9/18/26"]
    },
