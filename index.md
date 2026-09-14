@@ -35,6 +35,11 @@ links: [
     "Link" : "https://forms.gle/DgC9AUT5adaaCPpX9",
     "Type" : "QuickLinks"
   },
+  {
+    "Title" : "Docker and Environment Set-up",
+    "Link" : "/quicklinks/2026_setup.pdf",
+    "Type" : "QuickLinks"
+  },
 ]
 ---
 
