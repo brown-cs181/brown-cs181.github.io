@@ -1,6 +1,22 @@
 ---
 cols: ["Date", "Topic", "Video", "Extra Material"]
-contents: []
+contents: [
+  {
+    "Date" : ["9/10/26"],
+    "Topic" : ["Intro to CS1810"],
+    "Video" : [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=823891d2-efbc-4302-bfcb-b4bf0145120c"}],
+    "Extra Material" : [{"slides":"/lectures/Firstlecture2022.pdf"}]
+  },
+  {
+    "Date" : ["9/15/26"],
+    "Topic" : ["Intro to Alignment"],
+    "Video" : [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d17356f0-389a-47f9-85f7-b4bf01451251"}],
+    "Extra Material" : [
+      {"slides":"/lectures/IntroToAlignment.pdf"},
+      {"Ananya's Notes":"/lectures/2026_student_notes/ananya.pdf"}
+    ]
+  }
+]
 ---
 
 <!-- Previous lecture entries are retained below; source materials remain available. -->
