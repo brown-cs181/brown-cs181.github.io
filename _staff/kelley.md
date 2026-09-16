@@ -2,7 +2,7 @@
 name: Kelley Tu (UTA)
 role: staff
 favorite_theme_animal: Stegosaurus
-photo: kelley.jpg
+photo: kelley.jpeg
 throwback_photo: lisa_alt.jpg
 speech_bubble: |
   Pronouns: she/her 
