@@ -13,7 +13,12 @@ contents: [
     "Video" : [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d17356f0-389a-47f9-85f7-b4bf01451251"}],
     "Extra Material" : [
       {"slides":"/lectures/IntroToAlignment.pdf"},
-      {"Ananya's Notes":"/lectures/2026_student_notes/ananya.pdf"}
+      {"Ananya's Notes":"/lectures/2026_student_notes/ananya.pdf"},
+      {"Alexander's Notes":"/lectures/2026_student_notes/alexander.pdf"},
+      {"Elise's Notes":"/lectures/2026_student_notes/elise.pdf"},
+      {"Maggie's Notes":"/lectures/2026_student_notes/maggie.pdf"},
+      {"Prottoy's Notes":"/lectures/2026_student_notes/prottoy.pdf"},
+      {"Stephen's Notes":"/lectures/2026_student_notes/stephen.pdf"},
     ]
   }
 ]
