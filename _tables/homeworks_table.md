@@ -12,7 +12,7 @@ contents: [
     "In" : ["9/18/26"]
    },
    {
-    "Homework" : [{"Homework 1: Alignment": "/assignments/CS181_HW1_2026.pdf"}],
+    "Homework" : [{"Homework 1: Alignment": "/assignments/CS1810_HW1_2026.pdf"}],
     "Out" : ["9/21/26"],
     "In" : ["10/02/26"],
     "Support Files": [{"LaTeX Template": "/assignments/hw1_template.tex"}]
