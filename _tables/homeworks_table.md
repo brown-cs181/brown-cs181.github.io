@@ -15,7 +15,7 @@ contents: [
     "Homework" : [{"Homework 1: Alignment": "/assignments/CS1810_HW1_2026.pdf"}],
     "Out" : ["9/21/26"],
     "In" : ["10/02/26"],
-    "Support Files": [{"LaTeX Template": "/assignments/hw1_template.tex"}]
+    "Support Files": [{"LaTeX Template": "https://www.overleaf.com/docs?snip_uri=http://brown-cs181.github.io/assignments/hw1_template.tex"}]
    },
    {
     "Homework" : ["Homework 2: Alignment"],
