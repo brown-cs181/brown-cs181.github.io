@@ -38,7 +38,9 @@ contents: [
     "Date" : ["9/22/26"],
     "Topic" : ["Local Alignment"],
     "Video" : [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fbdf7093-aa48-439b-982b-b4bf01451287"}],
-    "Extra Material" : []
+    "Extra Material" : [
+      {"Katie's Notes"}:"/lectures/2026_student_notes/katie.pdf"
+    ]
   }
 ]
 ---
