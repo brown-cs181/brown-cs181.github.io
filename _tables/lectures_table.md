@@ -41,6 +41,14 @@ contents: [
     "Extra Material" : [
       {"Katie's Notes":"/lectures/2026_student_notes/katie.pdf"}
     ]
+  },
+  {
+    "Date" : ["9/24/26"],
+    "Topic" : ["Local Alignment"],
+    "Video" : [],
+    "Extra Material" : [
+      {"Katie's Notes":"/lectures/2026_student_notes/katie2.pdf"}
+    ]
   }
 ]
 ---
