@@ -20,6 +20,25 @@ contents: [
       {"Prottoy's Notes":"/lectures/2026_student_notes/prottoy.pdf"},
       {"Stephen's Notes":"/lectures/2026_student_notes/stephen.pdf"},
     ]
+  },
+  {
+    "Date" : ["9/17/26"],
+    "Topic" : ["Global Alignment + Scoring Schemes"],
+    "Video" : [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e3e62078-3fc0-49e7-a5a3-b4bf0145126d"}],
+    "Extra Material" : [
+      {"Elise's Notes":"/lectures/2026_student_notes/elise2.pdf"},
+      {"Alexander's Notes":"/lectures/2026_student_notes/alexander2.pdf"},
+      {"Prottoy's Notes":"/lectures/2026_student_notes/prottoy2.pdf"},
+      {"Jiaying's Notes":"/lectures/2026_student_notes/jiaying.pdf"},
+      {"Ananya's Notes":"/lectures/2026_student_notes/ananya2.pdf"},
+      {"Maggie's Notes":"/lectures/2026_student_notes/maggie2.pdf"}
+    ]
+  },
+  {
+    "Date" : ["9/22/26"],
+    "Topic" : ["Local Alignment"],
+    "Video" : [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fbdf7093-aa48-439b-982b-b4bf01451287"}],
+    "Extra Material" : []
   }
 ]
 ---
