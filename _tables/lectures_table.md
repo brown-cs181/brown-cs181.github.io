@@ -39,7 +39,8 @@ contents: [
     "Topic" : ["Local Alignment"],
     "Video" : [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fbdf7093-aa48-439b-982b-b4bf01451287"}],
     "Extra Material" : [
-      {"Katie's Notes":"/lectures/2026_student_notes/katie.pdf"}
+      {"Katie's Notes":"/lectures/2026_student_notes/katie.pdf"},
+      {"Ananya's Notes":"/lectures/2026_student_notes/ananya3.pdf"}
     ]
   },
   {
