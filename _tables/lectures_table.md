@@ -31,7 +31,8 @@ contents: [
       {"Prottoy's Notes":"/lectures/2026_student_notes/prottoy2.pdf"},
       {"Jiaying's Notes":"/lectures/2026_student_notes/jiaying.pdf"},
       {"Ananya's Notes":"/lectures/2026_student_notes/ananya2.pdf"},
-      {"Maggie's Notes":"/lectures/2026_student_notes/maggie2.pdf"}
+      {"Maggie's Notes":"/lectures/2026_student_notes/maggie2.pdf"},
+      {"Sidd's Notes":"/lectures/2026_student_notes/sidd.pdf"}
     ]
   },
   {
@@ -45,6 +46,22 @@ contents: [
   },
   {
     "Date" : ["9/24/26"],
+    "Topic" : ["Local Alignment"],
+    "Video" : [],
+    "Extra Material" : [
+      {"Katie's Notes":"/lectures/2026_student_notes/katie2.pdf"}
+    ]
+  },
+  {
+    "Date" : ["9/29/26"],
+    "Topic" : ["Local Alignment"],
+    "Video" : [],
+    "Extra Material" : [
+      {"Katie's Notes":"/lectures/2026_student_notes/katie2.pdf"}
+    ]
+  },
+  {
+    "Date" : ["10/01/26"],
     "Topic" : ["Local Alignment"],
     "Video" : [],
     "Extra Material" : [
