@@ -47,25 +47,29 @@ contents: [
   {
     "Date" : ["9/24/26"],
     "Topic" : ["Local Alignment"],
-    "Video" : [],
+    "Video" : [{"video": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=55b223c0-1c19-4f6b-877d-b4bf014512ad"}],
     "Extra Material" : [
       {"Katie's Notes":"/lectures/2026_student_notes/katie2.pdf"}
     ]
   },
   {
     "Date" : ["9/29/26"],
-    "Topic" : ["Local Alignment"],
-    "Video" : [],
+    "Topic" : ["Affine Gap Alignment"],
+    "Video" : [{"video": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2efd42f2-d35e-4534-b173-b4bf014512cb"}],
     "Extra Material" : [
-      {"Katie's Notes":"/lectures/2026_student_notes/katie2.pdf"}
+      {"More Notes":"/lectures/affine_notes.pdf"}
     ]
   },
   {
     "Date" : ["10/01/26"],
-    "Topic" : ["Local Alignment"],
-    "Video" : [],
+    "Topic" : ["Affine Gap Alignment"],
+    "Video" : [{"video": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8871747a-aa2a-4492-9549-b4bf014512f0"}],
     "Extra Material" : [
-      {"Katie's Notes":"/lectures/2026_student_notes/katie2.pdf"}
+      {"Julia's Notes":"/lectures/2026_student_notes/julia.pdf"},
+      {"Nitya's Notes":"/lectures/2026_student_notes/nitya.pdf"},
+      {"Audrey's Notes":"/lectures/2026_student_notes/audrey.pdf"},
+      {"Nihil's Notes":"/lectures/2026_student_notes/nihil.pdf"},
+      {"Alexander's Notes":"/lectures/2026_student_notes/alexander3.pdf"}
     ]
   }
 ]
