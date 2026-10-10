@@ -57,7 +57,8 @@ contents: [
     "Topic" : ["Affine Gap Alignment"],
     "Video" : [{"video": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2efd42f2-d35e-4534-b173-b4bf014512cb"}],
     "Extra Material" : [
-      {"More Notes":"/lectures/affine_notes.pdf"}
+      {"More Notes":"/lectures/affine_notes.pdf"},
+      {"Affine Gap Alignment Perfect Powerpoint" : "/lectures/AffineGapAlignment.pdf"}
     ]
   },
   {
