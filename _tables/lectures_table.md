@@ -72,7 +72,27 @@ contents: [
       {"Nihil's Notes":"/lectures/2026_student_notes/nihil.pdf"},
       {"Alexander's Notes":"/lectures/2026_student_notes/alexander3.pdf"}
     ]
-  }
+  },
+  {
+    "Date" : ["10/06/26"],
+    "Topic" : ["Statistical Foundations of Alignment"],
+    "Video" : [{"video": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e540537a-c104-47d8-b80a-b4bf01451318"}],
+    "Extra Material" : [
+      {"Audrey's Notes":"/lectures/2026_student_notes/audrey2.pdf"},
+      {"Sidd's Notes":"/lectures/2026_student_notes/sidd2.pdf"},
+      {"Aman's Notes":"/lectures/2026_student_notes/aman.pdf"}
+    ]
+  },
+  {
+    "Date" : ["10/08/26"],
+    "Topic" : ["DAGs and Shortest Path Algorithms"],
+    "Video" : [{"video": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=32c58118-3fee-463a-b912-b4bf01451339"}],
+    "Extra Material" : [
+      {"Ananya's Notes":"/lectures/2026_student_notes/ananya4.pdf"},
+      {"Aman's Notes":"/lectures/2026_student_notes/aman2.pdf"},
+      {"Genevieve's Notes":"/lectures/2026_student_notes/genevieve.pdf"}
+    ]
+  },
 ]
 ---
 
