@@ -24,7 +24,7 @@ contents: [
     "Support Files": []
    },
    {
-    "Homework" : ["Homework 3: KMP and DFAs"],
+    "Homework" : [{"Homework 3: KMP and DFAs" : "/assignments/CS1810_HW3_2026.pdf"}],
     "Out" : ["10/22/26"],
     "In" : ["11/1/26"]
    },
