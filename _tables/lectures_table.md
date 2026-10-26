@@ -93,6 +93,41 @@ contents: [
       {"Genevieve's Notes":"/lectures/2026_student_notes/genevieve.pdf"}
     ]
   },
+  {
+    "Date" : ["10/15/26"],
+    "Topic" : ["Multiple Sequence Alignment and AlphaFold2"],
+    "Video" : [{"video": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=504c2ef3-c340-4f4a-b14b-b4bf01451378"}],
+    "Extra Material" : [
+      {"Dawson's Notes":"/lectures/2026_student_notes/dawson.pdf"},
+      {"Johnny's Notes":"/lectures/2026_student_notes/Johnny.pdf"},
+      {"Alexander's Notes":"/lectures/2026_student_notes/alexanderc.pdf"},
+      {"Emily's Notes":"/lectures/2026_student_notes/emily.pdf"},
+      {"Ayse's Notes":"/lectures/2026_student_notes/ayse.pdf"}
+    ]
+  },
+  {
+    "Date" : ["10/20/26"],
+    "Topic" : ["Topological Sorting and Dijkstra's Algorithm"],
+    "Video" : [{"video": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ffd9c239-3a1b-407a-9293-b4bf014513a5"}],
+    "Extra Material" : [
+      {"Isaac's Notes":"/lectures/2026_student_notes/isaac.pdf"},
+      {"Ayse's Notes":"/lectures/2026_student_notes/ayse2.pdf"},
+      {"Gillian's Notes":"/lectures/2026_student_notes/gillian.pdf"}
+    ]
+  },
+  {
+    "Date" : ["10/22/26"],
+    "Topic" : ["DFAs and NFAs"],
+    "Video" : [{"video": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c22d5824-9066-424a-b25a-b4bf014513c7"}],
+    "Extra Material" : [
+      {"Eric's Notes":"/lectures/2026_student_notes/eric.pdf"},
+      {"Isaac's Notes":"/lectures/2026_student_notes/isaac2.jpeg"},
+      {"Gillian's Notes":"/lectures/2026_student_notes/gillian2.pdf"},
+      {"Adyant's Notes":"/lectures/2026_student_notes/adyant.pdf"},
+      {"DFA slides":"/lectures/DFA.pdf"},
+      {"NFA slides":"/lectures/NFA.pdf"}
+    ]
+  }
 ]
 ---
 
