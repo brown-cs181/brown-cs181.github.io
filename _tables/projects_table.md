@@ -9,19 +9,19 @@ contents: [
    },
    {
    "Project" : [{"Project 1: Alignment" : "/assignments/CS1810_PR1_2026.pdf"}],
-    "Out" : ["10/03/26"],
+    "Out" : ["10/3/26"],
     "In" : ["10/16/26"],
     "Support Files" : []
    },
    {
    "Project" : ["Project 2: Pattern Matching" : "/assignments/CS1810_PR2_2026.pdf"],
     "Out" : ["10/22/26"],
-    "In" : ["11/04/26"], 
+    "In" : ["11/7/26"], 
     "Support Files" : []
    },
    {
    "Project" : ["Project 3: Phylogeny"],
-    "Out" : ["11/08/26"],
+    "Out" : ["11/8/26"],
     "In" : ["11/23/26"],
     "Support Files" : [] # {"files" : "/assignments/zipped_files/pr3_phylogeny.zip"}, {"Basic UPGMA" : "/resources/UPGMA.pptx"}, {"Priority Queue UPGMA" : "/resources/UPGMA_PQ.pptx"}
    },
