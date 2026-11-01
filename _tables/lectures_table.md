@@ -112,7 +112,9 @@ contents: [
     "Extra Material" : [
       {"Isaac's Notes":"/lectures/2026_student_notes/isaac.pdf"},
       {"Ayse's Notes":"/lectures/2026_student_notes/ayse2.pdf"},
-      {"Gillian's Notes":"/lectures/2026_student_notes/gillian.pdf"}
+      {"Gillian's Notes":"/lectures/2026_student_notes/gillian.pdf"},
+      {"Jimmy's Notes":"/lectures/2026_student_notes/gillian.pdf"},
+      {"Brian's Notes":"/lectures/2026_student_notes/brian.pdf"}
     ]
   },
   {
@@ -124,8 +126,33 @@ contents: [
       {"Isaac's Notes":"/lectures/2026_student_notes/isaac2.jpeg"},
       {"Gillian's Notes":"/lectures/2026_student_notes/gillian2.pdf"},
       {"Adyant's Notes":"/lectures/2026_student_notes/adyant.pdf"},
+      {"Jimmy's Notes":"/lectures/2026_student_notes/jimmy2.pdf"},
       {"DFA slides":"/lectures/DFA.pdf"},
       {"NFA slides":"/lectures/NFA.pdf"}
+    ]
+  },
+  {
+    "Date" : ["10/27/26"],
+    "Topic" : ["Regular Expressions and Languages"],
+    "Video" : [{"video": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f7639e3b-e19d-4e9a-aa28-b4bf014513e4"}],
+    "Extra Material" : [
+      {"Eric's Notes":"/lectures/2026_student_notes/eric2.pdf"},
+      {"Adyant's Notes":"/lectures/2026_student_notes/adyant2.pdf"},
+      {"Garv's Notes":"/lectures/2026_student_notes/garv.pdf"},
+      {"Regex slides":"/lectures/Regular_Expressions.pdf"}
+    ]
+  },
+  {
+    "Date" : ["10/29/26"],
+    "Topic" : ["KMP and Failure Function"],
+    "Video" : [{"video": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=85b74192-0157-4683-a28b-b4bf01451404"}],
+    "Extra Material" : [
+      {"Johnny's Notes":"/lectures/2026_student_notes/johnny2.pdf"},
+      {"Garv's Notes":"/lectures/2026_student_notes/garv2.pdf"},
+      {"Anthony's Notes":"/lectures/2026_student_notes/anthony2.pdf"},
+      {"Grace's Notes Part 1":"/lectures/2026_student_notes/grace_part1.jpg"},
+      {"Grace's Notes Part 2":"/lectures/2026_student_notes/grace_part2.jpg"},
+      {"KMP slides":"/lectures/KMPAlgorithm.pdf"},{"Failure Function slides":"/lectures/FailureFunctionAlgorithm.pdf"}
     ]
   }
 ]
