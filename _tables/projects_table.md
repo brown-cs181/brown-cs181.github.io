@@ -16,18 +16,18 @@ contents: [
    {
    "Project" : ["Project 2: Pattern Matching" : "/assignments/CS1810_PR2_2026.pdf"],
     "Out" : ["10/22/26"],
-    "In" : ["11/7/26"], 
+    "In" : ["11/14/26"], 
     "Support Files" : []
    },
    {
    "Project" : ["Project 3: Phylogeny"],
-    "Out" : ["11/8/26"],
-    "In" : ["11/23/26"],
+    "Out" : ["11/15/26"],
+    "In" : ["11/30/26"],
     "Support Files" : [] # {"files" : "/assignments/zipped_files/pr3_phylogeny.zip"}, {"Basic UPGMA" : "/resources/UPGMA.pptx"}, {"Priority Queue UPGMA" : "/resources/UPGMA_PQ.pptx"}
    },
    {
    "Project" : ["Project 4: Hidden Markov Models"],
-    "Out" : ["11/24/26"],
+    "Out" : ["12/01/26"],
     "In" : ["12/14/26"],
     "Support Files" : []
    }

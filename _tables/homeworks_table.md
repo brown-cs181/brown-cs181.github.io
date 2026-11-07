@@ -26,16 +26,16 @@ contents: [
    {
     "Homework" : [{"Homework 3: KMP and DFAs" : "/assignments/CS1810_HW3_2026.pdf"}],
     "Out" : ["10/22/26"],
-    "In" : ["11/7/26"]
+    "In" : ["11/14/26"]
    },
    {
     "Homework" : ["Homework 4: Suffix Trees and Phylogeny"],
-    "Out" : ["11/09/26"],
-    "In" : ["11/20/26"]
+    "Out" : ["11/16/26"],
+    "In" : ["11/27/26"]
    },
    {
     "Homework" : ["Homework 5: Hidden Markov Models"],
-    "Out" : ["11/24/26"],
+    "Out" : ["12/01/26"],
     "In" : ["12/11/26"]
    },
   ]
