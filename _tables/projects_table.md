@@ -20,7 +20,7 @@ contents: [
     "Support Files" : []
    },
    {
-   "Project" : ["Project 3: Phylogeny" : "assignments/assignments/CS1810_PR3_2026.pdf"],
+   "Project" : ["Project 3: Phylogeny" : "assignments/CS1810_PR3_2026.pdf"],
     "Out" : ["11/16/26"],
     "In" : ["11/30/26"],
     "Support Files" : [
