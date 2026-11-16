@@ -20,10 +20,13 @@ contents: [
     "Support Files" : []
    },
    {
-   "Project" : ["Project 3: Phylogeny"],
-    "Out" : ["11/15/26"],
+   "Project" : ["Project 3: Phylogeny" : "assignments/assignments/CS1810_PR3_2026.pdf"],
+    "Out" : ["11/16/26"],
     "In" : ["11/30/26"],
-    "Support Files" : [] # {"files" : "/assignments/zipped_files/pr3_phylogeny.zip"}, {"Basic UPGMA" : "/resources/UPGMA.pptx"}, {"Priority Queue UPGMA" : "/resources/UPGMA_PQ.pptx"}
+    "Support Files" : [
+      {"Basic UPGMA" : "/resources/UPGMA.pptx"}, 
+      {"Priority Queue UPGMA" : "/resources/UPGMA_PQ.pptx"}
+      ] # {"files" : "/assignments/zipped_files/pr3_phylogeny.zip"}, {"Basic UPGMA" : "/resources/UPGMA.pptx"}, {"Priority Queue UPGMA" : "/resources/UPGMA_PQ.pptx"}
    },
    {
    "Project" : ["Project 4: Hidden Markov Models"],

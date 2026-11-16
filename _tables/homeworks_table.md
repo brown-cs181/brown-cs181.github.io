@@ -29,7 +29,7 @@ contents: [
     "In" : ["11/14/26"]
    },
    {
-    "Homework" : ["Homework 4: Suffix Trees and Phylogeny"],
+    "Homework" : ["Homework 4: Suffix Trees and Phylogeny" : "/assignments/assignments/CS1810_HW4_2026.pdf"],
     "Out" : ["11/16/26"],
     "In" : ["11/27/26"]
    },

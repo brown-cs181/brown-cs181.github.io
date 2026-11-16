@@ -154,6 +154,28 @@ contents: [
       {"Grace's Notes Part 2":"/lectures/2026_student_notes/grace_part2.jpg"},
       {"KMP slides":"/lectures/KMPAlgorithm.pdf"},{"Failure Function slides":"/lectures/FailureFunctionAlgorithm.pdf"}
     ]
+  },
+  {
+    "Date" : ["11/10/26"],
+    "Topic" : ["KMP and Failure Function"],
+    "Video" : [{"video": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7d50ee88-337d-4019-badd-b4bf0145145b"}],
+    "Extra Material" : [
+      {"Zach's Notes":"/lectures/2026_student_notes/zach.pdf"},
+      {"Mimi's Notes":"/lectures/2026_student_notes/mimi.pdf"},
+      {"Nitya's Notes":"/lectures/2026_student_notes/nitya2.pdf"},
+      {"Kira's Notes":"/lectures/2026_student_notes/kira.pdf"},
+      {"Daniel's Notes":"/lectures/2026_student_notes/daniel.pdf"}
+    ]
+  },
+  {
+    "Date" : ["11/12/26"],
+    "Topic" : ["Failure Function and Suffix Trees"],
+    "Video" : [{"video": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1d684a87-65d7-4945-9b91-b4bf0145147f"}],
+    "Extra Material" : [
+      {"Mimi's Notes":"/lectures/2026_student_notes/mimi2.pdf"},
+      {"Daniels's Notes":"/lectures/2026_student_notes/daniel2.pdf"},
+      {"Zach's Notes":"/lectures/2026_student_notes/zach2.pdf"}
+    ]
   }
 ]
 ---
